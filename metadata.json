@@ -1,0 +1,5 @@
+{
+  "name": "Subtitle Matcher",
+  "description": "A web app to find matching subtitle clips from public domain movies for a given speech, useful for video remixing and collage projects.",
+  "requestFramePermissions": []
+}
