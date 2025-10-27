@@ -1,0 +1,3698 @@
+1
+00:01:48,499 --> 00:01:51,463
+Gentlemen, the colonel.
+
+2
+00:01:58,504 --> 00:02:00,295
+Gentlemen...
+
+3
+00:02:00,305 --> 00:02:02,562
+this is war...
+
+4
+00:02:02,572 --> 00:02:05,231
+and war on the continent.
+
+5
+00:02:05,241 --> 00:02:08,234
+The regiment has its sailing orders.
+
+6
+00:02:08,244 --> 00:02:12,937
+We entrain at dawn for France.
+
+7
+00:02:12,947 --> 00:02:18,242
+Upon you, gentlemen,
+depends the scotch tradition.
+
+8
+00:02:18,252 --> 00:02:20,409
+You are the descendants
+
+9
+00:02:20,419 --> 00:02:23,712
+of those highland chieftains
+
+10
+00:02:23,722 --> 00:02:25,914
+who rallied behind Wallace
+
+11
+00:02:25,924 --> 00:02:28,482
+and who conquered under Bruce.
+
+12
+00:02:28,492 --> 00:02:31,251
+Your forefathers
+
+13
+00:02:31,261 --> 00:02:34,354
+risk their honor in your keeping.
+
+14
+00:02:34,364 --> 00:02:38,190
+I know that you will preserve it
+
+15
+00:02:38,200 --> 00:02:40,692
+with integrity.
+
+16
+00:02:40,702 --> 00:02:43,194
+I know that you will not fail
+
+17
+00:02:43,204 --> 00:02:45,229
+those faithful highland men
+
+18
+00:02:45,239 --> 00:02:48,264
+who look to your names for leadership.
+
+19
+00:02:48,274 --> 00:02:51,900
+It would be idle for me to warn you
+
+20
+00:02:51,910 --> 00:02:56,370
+that this will be no border skirmish.
+
+21
+00:02:56,380 --> 00:03:00,707
+We go to meet highly-trained,
+
+22
+00:03:00,717 --> 00:03:04,444
+perfectly armed soldiers...
+
+23
+00:03:04,454 --> 00:03:07,446
+the best organized army in the world.
+
+24
+00:03:07,456 --> 00:03:09,948
+A European war
+
+25
+00:03:09,958 --> 00:03:13,785
+promises to be long and bitter.
+
+26
+00:03:13,795 --> 00:03:17,954
+It may not be given us
+
+27
+00:03:17,964 --> 00:03:21,223
+to survive the victory.
+
+28
+00:03:21,233 --> 00:03:23,225
+It will be our portion
+
+29
+00:03:23,235 --> 00:03:26,961
+to show the way to
+the armies who will follow us.
+
+30
+00:03:26,971 --> 00:03:30,931
+Scotland expects no more from you
+
+31
+00:03:30,941 --> 00:03:33,766
+than your fathers always have given...
+
+32
+00:03:33,776 --> 00:03:35,968
+that you will fight bravely
+
+33
+00:03:35,978 --> 00:03:38,236
+for the honor of the highlands,
+
+34
+00:03:38,246 --> 00:03:40,271
+for the protection of your people,
+
+35
+00:03:40,281 --> 00:03:43,847
+and for your loyalty to his majesty.
+
+36
+00:03:46,885 --> 00:03:49,352
+- The King!
+- The King!
+
+37
+00:04:46,503 --> 00:04:50,837
+David my lad, how about a song?
+
+38
+00:05:06,818 --> 00:05:11,045
+> Maxwellton braes
+
+39
+00:05:11,055 --> 00:05:13,680
+> are Bonnie
+
+40
+00:05:13,690 --> 00:05:17,883
+> where early falls the dew...
+
+41
+00:05:18,185 --> 00:05:20,452
+The field marshal's compliments, sir.
+
+42
+00:05:20,462 --> 00:05:23,021
+Will captain King report at once?
+
+43
+00:05:23,031 --> 00:05:26,023
+My respects to the field marshal.
+
+44
+00:05:26,033 --> 00:05:28,099
+Captain King?
+
+45
+00:05:29,936 --> 00:05:34,763
+Kindly report at white hall.
+
+46
+00:05:34,773 --> 00:05:38,066
+- Immediately?
+- Immediately, sir.
+
+47
+00:05:38,076 --> 00:05:40,935
+> Gave me
+
+48
+00:05:40,945 --> 00:05:44,003
+> her promise
+
+49
+00:05:44,013 --> 00:05:46,805
+> true
+
+50
+00:05:46,815 --> 00:05:49,707
+> which ne'er
+
+51
+00:05:49,717 --> 00:05:51,941
+> forgot
+
+52
+00:05:51,951 --> 00:05:54,910
+> will be
+
+53
+00:05:54,920 --> 00:05:59,947
+> and for Bonnie...
+
+54
+00:06:00,576 --> 00:06:04,016
+It's evidently very urgent.
+
+55
+00:06:04,026 --> 00:06:06,693
+With your permission, sir.
+
+56
+00:06:11,065 --> 00:06:15,625
+> I lay me
+
+57
+00:06:15,635 --> 00:06:19,428
+> doon<
+
+58
+00:06:19,438 --> 00:06:24,431
+> and Dee
+
+59
+00:06:24,441 --> 00:06:26,900
+> gave me
+
+60
+00:06:26,910 --> 00:06:31,503
+> her promise true
+
+61
+00:06:31,513 --> 00:06:34,539
+> which ne'er
+
+62
+00:06:34,549 --> 00:06:39,450
+> forgot will be
+
+63
+00:06:41,053 --> 00:06:45,880
+> and for Bonnie
+
+64
+00:06:45,890 --> 00:06:49,883
+> Annie
+
+65
+00:06:49,893 --> 00:06:53,887
+> Laurie
+
+66
+00:06:53,897 --> 00:06:54,897
+> I lay
+
+67
+00:06:58,933 --> 00:07:01,992
+> me
+
+68
+00:07:02,002 --> 00:07:05,028
+> doon
+
+69
+00:07:05,038 --> 00:07:08,938
+> and Dee.
+
+70
+00:07:24,985 --> 00:07:28,619
+- Captain King?
+- Yes, sir.
+
+71
+00:07:31,890 --> 00:07:35,849
+> There's no place
+
+72
+00:07:35,859 --> 00:07:39,052
+> like home
+
+73
+00:07:39,062 --> 00:07:42,889
+> there's no place
+
+74
+00:07:42,899 --> 00:07:45,023
+> like home...
+
+75
+00:07:45,033 --> 00:07:48,100
+> be it ever so humble
+
+76
+00:07:51,004 --> 00:07:54,663
+> there's no place
+
+77
+00:07:54,673 --> 00:07:57,732
+> like home.
+
+78
+00:07:57,742 --> 00:08:00,534
+then why don't you go home?
+
+79
+00:08:00,544 --> 00:08:03,043
+Blasted, what's the matter wit' ya?
+
+80
+00:08:05,814 --> 00:08:07,939
+I don't think he likes music.
+
+81
+00:08:07,949 --> 00:08:11,942
+> Now break the news
+
+82
+00:08:11,952 --> 00:08:14,919
+> to mother...
+
+83
+00:08:19,723 --> 00:08:21,714
+- Captain King?
+- Yes, sir.
+
+84
+00:08:21,724 --> 00:08:23,849
+This way, please.
+
+85
+00:08:23,859 --> 00:08:25,525
+Captain King.
+
+86
+00:08:32,031 --> 00:08:34,931
+Captain King, sir.
+
+87
+00:08:36,901 --> 00:08:40,468
+Presently.
+
+88
+00:08:46,976 --> 00:08:49,500
+Have a chair, King.
+
+89
+00:08:49,510 --> 00:08:51,008
+Thank you, sir.
+
+90
+00:08:54,079 --> 00:08:56,938
+You've filled out in 10 years.
+
+91
+00:08:56,948 --> 00:08:59,539
+You were a slender sub-lieutenant
+
+92
+00:08:59,549 --> 00:09:02,782
+when I visited your father's
+regiment in peshawar.
+
+93
+00:09:04,819 --> 00:09:06,976
+Now let's see, King.
+
+94
+00:09:06,986 --> 00:09:11,179
+Your permanent regiment is the black watch.
+
+95
+00:09:11,189 --> 00:09:13,114
+Yes, sir.
+
+96
+00:09:13,124 --> 00:09:15,149
+But for the past six years,
+
+97
+00:09:15,159 --> 00:09:19,952
+you've been attached to the khyber rifles.
+
+98
+00:09:19,962 --> 00:09:21,820
+Yes, sir.
+
+99
+00:09:21,830 --> 00:09:25,823
+You've spoken the Indian border dialects
+
+100
+00:09:25,833 --> 00:09:28,992
+- since boyhood?
+- I was born there, sir.
+
+101
+00:09:29,002 --> 00:09:33,503
+Pashto, hindustani
+and the rest like a native?
+
+102
+00:09:35,939 --> 00:09:38,005
+Yes, sir.
+
+103
+00:09:42,844 --> 00:09:44,175
+Well, King.
+
+104
+00:09:53,983 --> 00:09:57,543
+A very serious situation exists here.
+
+105
+00:09:57,553 --> 00:10:01,980
+We are stripping
+India of troops for France,
+
+106
+00:10:01,990 --> 00:10:06,624
+leaving the frontier weakly guarded.
+
+107
+00:10:14,131 --> 00:10:16,289
+A holy war starting here
+
+108
+00:10:16,299 --> 00:10:20,126
+in territory not under British rule
+
+109
+00:10:20,136 --> 00:10:22,827
+would be ruinous!
+
+110
+00:10:22,837 --> 00:10:26,063
+These hillmen have always been troublesome.
+
+111
+00:10:26,073 --> 00:10:30,032
+But now we find they are led by some woman
+
+112
+00:10:30,042 --> 00:10:32,200
+known as yasmani.
+
+113
+00:10:32,210 --> 00:10:36,003
+It appears she claims
+
+114
+00:10:36,013 --> 00:10:38,839
+some mysterious origin.
+
+115
+00:10:38,849 --> 00:10:43,008
+At any rate, she has such
+an extraordinary personality
+
+116
+00:10:43,018 --> 00:10:46,845
+that she can sway these fanatics
+
+117
+00:10:46,855 --> 00:10:50,013
+to hail her as their leader
+
+118
+00:10:50,023 --> 00:10:52,215
+and obey her rule.
+
+119
+00:10:52,225 --> 00:10:55,925
+They hail her as a goddess.
+
+120
+00:10:57,861 --> 00:11:00,220
+Now at any moment
+
+121
+00:11:00,230 --> 00:11:04,324
+she may lead her fanatical hordes
+
+122
+00:11:04,334 --> 00:11:06,958
+down the khyber pass,
+
+123
+00:11:06,968 --> 00:11:11,962
+which would give over
+our peaceful subjects of India
+
+124
+00:11:11,972 --> 00:11:14,931
+to the horrors
+
+125
+00:11:14,941 --> 00:11:18,107
+of a holy war.
+
+126
+00:11:20,678 --> 00:11:22,870
+They look to us for protection
+
+127
+00:11:22,880 --> 00:11:25,113
+and we won't let them down.
+
+128
+00:11:28,083 --> 00:11:30,275
+Your mission will be
+
+129
+00:11:30,285 --> 00:11:33,152
+to prevent that holy war.
+
+130
+00:11:37,725 --> 00:11:40,117
+But, sir, I'm leaving tomorrow
+
+131
+00:11:40,127 --> 00:11:42,719
+with the regiment for France.
+
+132
+00:11:42,729 --> 00:11:45,120
+You're not leaving for France, King.
+
+133
+00:11:45,130 --> 00:11:47,322
+You're leaving for India.
+
+134
+00:11:47,332 --> 00:11:50,925
+Your mission is secret,
+
+135
+00:11:50,935 --> 00:11:54,093
+so that you may not explain to anyone
+
+136
+00:11:54,103 --> 00:11:57,162
+that you're not just slinKing away,
+
+137
+00:11:57,172 --> 00:12:00,131
+not even to your own brother officers.
+
+138
+00:12:00,141 --> 00:12:04,400
+You're going under a cloud...
+
+139
+00:12:04,410 --> 00:12:07,110
+Alone.
+
+140
+00:12:22,424 --> 00:12:25,791
+Don't ask this, sir.
+
+141
+00:12:27,127 --> 00:12:29,085
+You know our family.
+
+142
+00:12:29,095 --> 00:12:32,954
+There's been a King with
+the regiment in every war.
+
+143
+00:12:32,964 --> 00:12:35,756
+Your father wouldn't have said that, King.
+
+144
+00:12:35,766 --> 00:12:39,000
+He was a soldier and he obeyed orders.
+
+145
+00:12:41,036 --> 00:12:43,870
+Is this an order, sir?
+
+146
+00:12:45,073 --> 00:12:47,139
+It's an order.
+
+147
+00:12:53,179 --> 00:12:56,079
+I'm ready for duty, sir.
+
+148
+00:13:36,247 --> 00:13:38,806
+Ah, King, you're back.
+
+149
+00:13:38,816 --> 00:13:42,075
+You're just in time for a deoch andoris.
+
+150
+00:13:42,085 --> 00:13:44,843
+My request for reassignment
+to the khyber rifles
+
+151
+00:13:44,853 --> 00:13:46,244
+has been approved, sir.
+
+152
+00:13:46,254 --> 00:13:49,080
+Orders will be forwarded within an hour.
+
+153
+00:13:49,090 --> 00:13:51,248
+Your request, King?
+
+154
+00:13:51,258 --> 00:13:54,524
+My request, sir.
+
+155
+00:14:01,999 --> 00:14:06,158
+Then you won't be going
+with the regiment tomorrow.
+
+156
+00:14:06,168 --> 00:14:07,993
+No, sir.
+
+157
+00:14:08,003 --> 00:14:11,796
+You're returning to India at this time
+
+158
+00:14:11,806 --> 00:14:13,396
+when your country has need
+
+159
+00:14:13,406 --> 00:14:16,499
+of every trained man she has in France?
+
+160
+00:14:16,509 --> 00:14:19,176
+I'm returning to India, sir.
+
+161
+00:14:21,380 --> 00:14:24,045
+Oh.
+
+162
+00:14:27,050 --> 00:14:30,151
+Sorry, King.
+
+163
+00:15:01,579 --> 00:15:04,972
+A nice place, India,
+
+164
+00:15:04,982 --> 00:15:08,148
+now that we're leaving for...
+
+165
+00:15:09,918 --> 00:15:11,576
+sing "auld lang syne," David.
+
+166
+00:15:11,586 --> 00:15:13,978
+Yes, David, "auld lang syne."
+
+167
+00:15:13,988 --> 00:15:19,014
+> Should auld acquaintance
+
+168
+00:15:19,024 --> 00:15:22,050
+> be forgot
+
+169
+00:15:22,060 --> 00:15:25,119
+> and never brought
+
+170
+00:15:25,129 --> 00:15:28,387
+> to mind?
+
+171
+00:15:28,397 --> 00:15:31,464
+Donald?
+
+172
+00:15:36,236 --> 00:15:38,027
+Brother,
+
+173
+00:15:38,037 --> 00:15:41,430
+aren't you going with us to France?
+
+174
+00:15:41,440 --> 00:15:44,399
+No, laddie, I'm going to India.
+
+175
+00:15:44,409 --> 00:15:48,402
+But why?
+
+176
+00:15:48,412 --> 00:15:52,572
+I can't tell you.
+
+177
+00:15:52,582 --> 00:15:54,973
+But you'll be the soldier of the family
+
+178
+00:15:54,983 --> 00:15:57,041
+in this war, Malcolm.
+
+179
+00:15:57,051 --> 00:16:00,210
+You'll do the fighting.
+
+180
+00:16:00,220 --> 00:16:03,187
+And you won't fail.
+
+181
+00:16:05,123 --> 00:16:07,315
+I won't fail.
+
+182
+00:16:07,325 --> 00:16:10,117
+Good boy.
+
+183
+00:16:10,127 --> 00:16:12,552
+Go inside, laddie.
+
+184
+00:16:12,562 --> 00:16:15,028
+Join your pals.
+
+185
+00:16:23,436 --> 00:16:28,430
+> For auld lang syne
+
+186
+00:16:28,440 --> 00:16:31,032
+> my dear
+
+187
+00:16:31,042 --> 00:16:34,634
+> for auld
+
+188
+00:16:34,644 --> 00:16:38,004
+> lang syne
+
+189
+00:16:38,014 --> 00:16:42,340
+> we'll drink
+
+190
+00:16:42,350 --> 00:16:44,642
+> a right
+
+191
+00:16:44,652 --> 00:16:48,145
+> gude-Willy waught
+
+192
+00:16:48,155 --> 00:16:52,114
+> for the sake
+
+193
+00:16:52,124 --> 00:16:56,492
+> of auld lang syne.
+
+194
+00:16:58,262 --> 00:17:00,260
+- Best of luck, boys!
+- Good luck!
+
+195
+00:18:08,419 --> 00:18:13,120
+Company, right face!
+
+196
+00:18:18,426 --> 00:18:21,018
+And when you're in battle, my love,
+
+197
+00:18:21,028 --> 00:18:24,053
+do not forget you're a mactavish, Sandy!
+
+198
+00:18:24,063 --> 00:18:27,056
+And your wife is a macnabb!
+
+199
+00:18:27,066 --> 00:18:29,824
+Aye.
+
+200
+00:18:29,834 --> 00:18:32,593
+Eh, and Sandy, when you
+get to Ken the Paris hussies,
+
+201
+00:18:32,603 --> 00:18:36,163
+do not forget you're a married man.
+
+202
+00:18:36,173 --> 00:18:37,597
+Aye!
+
+203
+00:18:37,607 --> 00:18:41,066
+Eh, and watch for when you sit down
+
+204
+00:18:41,076 --> 00:18:43,435
+and pull down your kilt.
+
+205
+00:18:43,445 --> 00:18:48,038
+Do not forget, you're
+a member of the church.
+
+206
+00:18:48,048 --> 00:18:49,639
+And hide your shame.
+
+207
+00:18:49,649 --> 00:18:51,106
+Och, aye!
+
+208
+00:18:51,116 --> 00:18:53,308
+Eh, and do not forget
+
+209
+00:18:53,318 --> 00:18:55,510
+to give your rum ration
+
+210
+00:18:55,520 --> 00:19:00,279
+to some wee-bit drinkin' lad that needs it.
+
+211
+00:19:00,289 --> 00:19:02,147
+Aye, Jenny.
+
+212
+00:19:02,157 --> 00:19:06,151
+I'll give it to the first
+wee drinkin' lad that needs it
+
+213
+00:19:06,161 --> 00:19:08,153
+worse than the mactavish!
+
+214
+00:19:08,163 --> 00:19:10,587
+You'd be as will!
+
+215
+00:19:10,597 --> 00:19:13,063
+Dah!
+
+216
+00:19:15,667 --> 00:19:17,458
+Halt!
+
+217
+00:19:17,468 --> 00:19:21,093
+Right face!
+
+218
+00:19:21,103 --> 00:19:23,462
+Left flank!
+
+219
+00:19:23,472 --> 00:19:26,031
+At ease!
+
+220
+00:19:26,041 --> 00:19:29,266
+Angus! Angus!
+
+221
+00:19:29,276 --> 00:19:31,668
+Angus! Here we are
+in here!
+
+222
+00:19:31,678 --> 00:19:34,070
+- Here!
+- Daddy!
+
+223
+00:19:34,080 --> 00:19:36,446
+Daddy! Here we are!
+Daddy!
+
+224
+00:19:39,783 --> 00:19:43,817
+Entrain!
+
+225
+00:19:47,488 --> 00:19:50,647
+> Oh, ye take
+
+226
+00:19:50,657 --> 00:19:53,116
+> the high road
+
+227
+00:19:53,126 --> 00:19:54,784
+> and I'll
+
+228
+00:19:54,794 --> 00:19:59,154
+> take the low road...
+
+229
+00:19:59,164 --> 00:20:03,465
+sorry you're not going with us, King.
+
+230
+00:20:08,837 --> 00:20:11,396
+Well, cheerio, King!
+
+231
+00:20:11,406 --> 00:20:14,164
+India, eh?
+
+232
+00:20:14,174 --> 00:20:16,366
+> Will never
+
+233
+00:20:16,376 --> 00:20:20,836
+> meet again...
+
+234
+00:20:20,846 --> 00:20:22,837
+Oi, Chuck!
+
+235
+00:20:22,847 --> 00:20:25,506
+I'll see you in aberdeen!
+
+236
+00:20:25,516 --> 00:20:29,251
+Andy! Andy, no!
+
+237
+00:20:33,656 --> 00:20:36,782
+B company, halt!
+
+238
+00:20:36,792 --> 00:20:39,818
+Right face!
+
+239
+00:20:39,828 --> 00:20:44,321
+> oh, ye take the high road
+
+240
+00:20:44,331 --> 00:20:48,825
+> and I'll take the low road...
+
+241
+00:20:48,835 --> 00:20:52,127
+Daddy daddy daddy!
+
+242
+00:20:52,137 --> 00:20:56,171
+Daddy daddy!
+
+243
+00:20:58,208 --> 00:21:01,099
+Now give me a little smile.
+
+244
+00:21:01,109 --> 00:21:04,769
+> Me and my true love
+
+245
+00:21:04,779 --> 00:21:07,571
+> will never
+
+246
+00:21:07,581 --> 00:21:11,373
+> meet again
+
+247
+00:21:11,383 --> 00:21:15,410
+> on the Bonnie
+
+248
+00:21:15,420 --> 00:21:19,879
+> Bonnie banks
+
+249
+00:21:19,889 --> 00:21:23,582
+> o' loch
+
+250
+00:21:23,592 --> 00:21:28,593
+> lomond.
+
+251
+00:21:29,596 --> 00:21:32,255
+Daddy! Daddy!
+
+252
+00:21:32,265 --> 00:21:34,490
+Daddy! Daddy!
+
+253
+00:21:34,500 --> 00:21:38,125
+Take me with you, father.
+Take me with you.
+
+254
+00:21:38,135 --> 00:21:41,228
+No no, Lassie, no.
+Go on back to your mother.
+
+255
+00:21:41,238 --> 00:21:42,862
+She's waiting on you.
+
+256
+00:21:42,872 --> 00:21:46,205
+And give her this kiss for me.
+
+257
+00:21:50,777 --> 00:21:52,902
+Aye, sergeant,
+
+258
+00:21:52,912 --> 00:21:55,170
+bein' a bachelor,
+
+259
+00:21:55,180 --> 00:21:57,771
+you're Ken that a wee bit of war
+
+260
+00:21:57,781 --> 00:21:59,773
+is a grand relief
+
+261
+00:21:59,783 --> 00:22:02,375
+to a married man.
+
+262
+00:22:02,385 --> 00:22:04,884
+Och, aye.
+
+263
+00:22:05,920 --> 00:22:09,647
+About face!
+
+264
+00:22:09,657 --> 00:22:11,815
+Entrain!
+
+265
+00:22:11,825 --> 00:22:14,524
+Top fellow!
+
+266
+00:22:17,862 --> 00:22:20,521
+All present and entrained, sir.
+
+267
+00:22:20,531 --> 00:22:22,757
+Very good.
+
+268
+00:22:22,767 --> 00:22:25,358
+I wish you very good luck, colonel.
+
+269
+00:22:25,368 --> 00:22:27,935
+Thank you.
+Goodbye.
+
+270
+00:23:16,812 --> 00:23:18,969
+> Gave me
+
+271
+00:23:18,979 --> 00:23:24,040
+> her promise true
+
+272
+00:23:24,050 --> 00:23:26,976
+> which ne'er
+
+273
+00:23:26,986 --> 00:23:29,944
+> forgot
+
+274
+00:23:29,954 --> 00:23:32,079
+> will be...
+
+275
+00:23:32,089 --> 00:23:35,682
+oh, Angus! Angus!
+
+276
+00:23:35,692 --> 00:23:37,924
+My poor wee baby!
+
+277
+00:25:40,030 --> 00:25:44,157
+For all the violence I have displayed
+
+278
+00:25:44,167 --> 00:25:46,792
+toward my fellow man,
+
+279
+00:25:46,802 --> 00:25:50,068
+Allah, forgive me.
+
+280
+00:26:27,200 --> 00:26:30,026
+Ho!
+
+281
+00:26:30,036 --> 00:26:32,102
+At ease.
+
+282
+00:26:41,178 --> 00:26:44,670
+- King, sahib.
+- Mohammed Khan.
+
+283
+00:26:44,680 --> 00:26:47,673
+You're the last man
+I expected to see in India.
+
+284
+00:26:47,683 --> 00:26:49,808
+I thought you were in France
+
+285
+00:26:49,818 --> 00:26:51,983
+with your lancers.
+
+286
+00:26:54,187 --> 00:26:56,979
+The raj deems me too old.
+
+287
+00:26:56,989 --> 00:26:59,982
+I, who first rode in battle
+
+288
+00:26:59,992 --> 00:27:02,049
+behind thy father
+
+289
+00:27:02,059 --> 00:27:03,884
+40 years ago.
+
+290
+00:27:03,894 --> 00:27:08,829
+But King, sahib, why art
+thou not with thy scots?
+
+291
+00:27:11,098 --> 00:27:14,558
+You and I have been shunted
+from the real show
+
+292
+00:27:14,568 --> 00:27:16,159
+in flanders, Mohammed.
+
+293
+00:27:16,169 --> 00:27:19,928
+But there's a soldier's job in India
+
+294
+00:27:19,938 --> 00:27:21,963
+for both of us.
+
+295
+00:27:21,973 --> 00:27:23,764
+King, sahib!
+
+296
+00:27:23,774 --> 00:27:26,933
+There'll be no glory in it.
+
+297
+00:27:26,943 --> 00:27:30,936
+You'll not be riding at
+the head of 100 lancers;
+
+298
+00:27:30,946 --> 00:27:32,938
+no pennant flying;
+
+299
+00:27:32,948 --> 00:27:35,914
+no pipes playing.
+
+300
+00:27:38,884 --> 00:27:42,718
+A dirty job at the best.
+
+301
+00:27:46,090 --> 00:27:48,548
+Do you want to come along?
+
+302
+00:27:48,558 --> 00:27:52,018
+King, sahib, I have eaten thy salt
+
+303
+00:27:52,028 --> 00:27:54,728
+and thy father's salt.
+
+304
+00:28:05,639 --> 00:28:10,207
+Sahiba? Sahiba?
+
+305
+00:28:41,069 --> 00:28:44,861
+Yasmani, sahiba,
+
+306
+00:28:44,871 --> 00:28:48,172
+the strong one stands below.
+
+307
+00:30:17,416 --> 00:30:22,110
+Here comes that drunken
+swine, captain King.
+
+308
+00:30:22,120 --> 00:30:26,079
+On hand as usual for his
+evening's whiskey swilling.
+
+309
+00:30:26,089 --> 00:30:29,082
+By jove, he'll drink
+himself out of the service.
+
+310
+00:30:29,092 --> 00:30:32,919
+Yes, India is full of
+such rotters since the war.
+
+311
+00:30:32,929 --> 00:30:35,954
+Well, slacKing is bad enough
+
+312
+00:30:35,964 --> 00:30:39,123
+without fraternizing with
+these scurvy natives.
+
+313
+00:30:39,133 --> 00:30:41,959
+The scurvy native you refer to
+
+314
+00:30:41,969 --> 00:30:44,961
+is major Mohammed Khan,
+
+315
+00:30:44,971 --> 00:30:47,964
+who holds the highest rank possible
+
+316
+00:30:47,974 --> 00:30:49,966
+in his majesty's army...
+
+317
+00:30:49,976 --> 00:30:52,834
+a gallant soldier and a gentleman.
+
+318
+00:30:52,844 --> 00:30:55,143
+Good day, sir.
+
+319
+00:30:59,983 --> 00:31:02,307
+The general seems in a bit of a huff!
+
+320
+00:31:02,317 --> 00:31:05,677
+But you notice he didn't have a
+good word to say for King, though.
+
+321
+00:31:05,687 --> 00:31:07,679
+No.
+
+322
+00:31:07,689 --> 00:31:10,189
+How are you, old chap?
+
+323
+00:31:13,126 --> 00:31:16,886
+Boy, how about a peg of whiskey?
+
+324
+00:31:16,896 --> 00:31:18,262
+And soda.
+
+325
+00:31:24,102 --> 00:31:26,928
+My country has kept its promise.
+
+326
+00:31:26,938 --> 00:31:31,472
+Vast stores of ammunition
+have reached the hills.
+
+327
+00:31:34,443 --> 00:31:37,269
+Arrange for our departure...
+
+328
+00:31:37,279 --> 00:31:39,045
+Shortly.
+
+329
+00:32:07,137 --> 00:32:10,063
+For a week past,
+
+330
+00:32:10,073 --> 00:32:14,067
+captain King has looked often
+
+331
+00:32:14,077 --> 00:32:15,943
+at my window.
+
+332
+00:32:20,081 --> 00:32:25,041
+Thou shalt bring him to my house.
+
+333
+00:32:25,051 --> 00:32:29,044
+You are in danger here,
+
+334
+00:32:29,054 --> 00:32:30,845
+yasmani.
+
+335
+00:32:30,855 --> 00:32:33,214
+It is safer in the hills
+
+336
+00:32:33,224 --> 00:32:36,490
+among your tribesmen.
+
+337
+00:32:38,760 --> 00:32:42,120
+Safer for thee, rewa ghunga.
+
+338
+00:32:42,130 --> 00:32:47,123
+The British have no love for a native
+
+339
+00:32:47,133 --> 00:32:49,466
+conspiring against them.
+
+340
+00:32:53,370 --> 00:32:57,397
+Everything is in readiness...
+
+341
+00:32:57,407 --> 00:33:02,168
+munitions, guns,
+
+342
+00:33:02,178 --> 00:33:04,936
+your men.
+
+343
+00:33:04,946 --> 00:33:09,173
+An empire is at stake.
+
+344
+00:33:09,183 --> 00:33:13,242
+Thou shalt have princely power
+
+345
+00:33:13,252 --> 00:33:15,944
+in good time.
+
+346
+00:33:15,954 --> 00:33:20,356
+Bring captain King to me.
+
+347
+00:34:41,060 --> 00:34:44,053
+I say... I say,
+you fellows,
+
+348
+00:34:44,063 --> 00:34:47,496
+I've just heard the most ripping story.
+
+349
+00:34:51,134 --> 00:34:55,526
+It concerns two irishmen, pat and Mike!
+
+350
+00:34:55,536 --> 00:34:58,328
+Oh, don't go away!
+
+351
+00:34:58,338 --> 00:35:02,598
+Or rather I should say Patrick and Michael.
+
+352
+00:35:02,608 --> 00:35:07,034
+They were doing something.
+I forget what they were doing.
+
+353
+00:35:07,044 --> 00:35:09,403
+But one said to the other,
+
+354
+00:35:09,413 --> 00:35:11,037
+"bi' cor' eye"...
+
+355
+00:35:11,047 --> 00:35:13,605
+excuse me, old chap, I've got a lot to do.
+
+356
+00:35:13,615 --> 00:35:16,015
+- I must go home.
+- Excuse me.
+
+357
+00:35:24,089 --> 00:35:27,282
+I say, I've just heard
+
+358
+00:35:27,292 --> 00:35:29,951
+the most ripping story!
+
+359
+00:35:29,961 --> 00:35:31,952
+It concerns two irishmen...
+
+360
+00:35:31,962 --> 00:35:33,962
+some other time, old chap.
+
+361
+00:35:46,207 --> 00:35:49,200
+Boy,
+
+362
+00:35:49,210 --> 00:35:51,975
+two whiskeys and soda.
+
+363
+00:35:53,979 --> 00:35:56,404
+I'm not drinKing with you!
+
+364
+00:35:56,414 --> 00:36:01,040
+I didn't ask for whiskey and soda for two.
+
+365
+00:36:01,050 --> 00:36:05,652
+I said, "two whiskeys
+and soda."
+
+366
+00:36:09,056 --> 00:36:13,124
+It's very much like the...
+
+367
+00:36:16,562 --> 00:36:19,654
+Yes, we have some quite dull evenings here.
+
+368
+00:36:19,664 --> 00:36:22,089
+- You can come along sometime.
+- Thank you.
+
+369
+00:36:22,099 --> 00:36:25,092
+We have all sorts of social
+
+370
+00:36:25,102 --> 00:36:28,501
+and sometimes regimental event...
+
+371
+00:36:29,971 --> 00:36:32,997
+your pardon, rewa ghunga?
+
+372
+00:36:33,007 --> 00:36:35,132
+But I was distracted
+
+373
+00:36:35,142 --> 00:36:39,435
+by captain King's drinKing again.
+
+374
+00:36:39,445 --> 00:36:41,336
+Unfortunate.
+
+375
+00:36:41,346 --> 00:36:43,971
+Odd...
+
+376
+00:36:43,981 --> 00:36:47,039
+He should be in India at this time.
+
+377
+00:36:47,049 --> 00:36:51,009
+Wasn't he with a scots regiment
+
+378
+00:36:51,019 --> 00:36:53,277
+when war broke out?
+
+379
+00:36:53,287 --> 00:36:57,480
+In this case, the war office
+
+380
+00:36:57,490 --> 00:37:00,282
+may have its own very good reasons
+
+381
+00:37:00,292 --> 00:37:04,084
+for transfer, rewa ghunga.
+
+382
+00:37:04,094 --> 00:37:05,285
+Mmm.
+
+383
+00:37:05,295 --> 00:37:07,553
+I don't presume to know.
+
+384
+00:37:07,563 --> 00:37:09,129
+Quite so.
+
+385
+00:37:22,073 --> 00:37:27,101
+I say, King, that reminds me
+of a ripping story
+
+386
+00:37:27,111 --> 00:37:31,504
+about two blackamoors, sambo and topsy.
+
+387
+00:37:31,514 --> 00:37:34,206
+Oh, keep your beastly stories to yourself.
+
+388
+00:37:34,216 --> 00:37:36,041
+King! Gentlemen!
+
+389
+00:37:36,051 --> 00:37:38,009
+- Gentlemen, please!
+- Really?
+
+390
+00:37:38,019 --> 00:37:40,211
+Well, you're a drunken bounder!
+
+391
+00:37:40,221 --> 00:37:42,645
+- You're a less-born...
+- Now listen, King!
+
+392
+00:37:42,655 --> 00:37:44,213
+And a cad besides!
+
+393
+00:37:44,223 --> 00:37:47,157
+Yes, and you're a nasty,
+filthy drunken swine!
+
+394
+00:37:51,095 --> 00:37:53,395
+Now listen, King!
+
+395
+00:37:55,098 --> 00:37:57,723
+- Colonel matranel?
+- Sir?
+
+396
+00:37:57,733 --> 00:38:02,427
+What is the meaning of
+this disgraceful conduct?
+
+397
+00:38:02,437 --> 00:38:05,863
+Place captain King under arrest
+
+398
+00:38:05,873 --> 00:38:08,464
+and have him brought
+to my office immediately.
+
+399
+00:38:08,474 --> 00:38:10,165
+Yes, sir.
+
+400
+00:38:10,175 --> 00:38:13,535
+Captain King?
+
+401
+00:38:13,545 --> 00:38:15,711
+Follow me.
+
+402
+00:38:28,856 --> 00:38:33,550
+The fall must have
+fractured his skull, sir.
+
+403
+00:38:33,560 --> 00:38:35,893
+He's dead.
+
+404
+00:38:38,229 --> 00:38:40,321
+Awkward mess.
+
+405
+00:38:40,331 --> 00:38:43,532
+Rewa ghunga?
+
+406
+00:38:50,706 --> 00:38:53,899
+Politics, out of the hands of the club.
+
+407
+00:38:53,909 --> 00:38:55,900
+I understand.
+
+408
+00:38:55,910 --> 00:38:59,270
+One expects such outbursts
+
+409
+00:38:59,280 --> 00:39:02,573
+from these virile Europeans.
+
+410
+00:39:02,583 --> 00:39:05,374
+This is a very serious business.
+
+411
+00:39:05,384 --> 00:39:09,745
+I feel very sorry for captain King.
+
+412
+00:39:09,755 --> 00:39:11,813
+Oh, save your regrets.
+
+413
+00:39:11,823 --> 00:39:14,514
+At last the service has the chance
+
+414
+00:39:14,524 --> 00:39:17,583
+of getting rid of a bounder.
+
+415
+00:39:17,593 --> 00:39:19,685
+Excuse me.
+
+416
+00:39:19,695 --> 00:39:21,761
+Certainly.
+
+417
+00:39:35,573 --> 00:39:40,242
+- That'll be all, men. You may go.
+- Hurry! File out.
+
+418
+00:39:49,952 --> 00:39:51,943
+Now you understand, doctor,
+
+419
+00:39:51,953 --> 00:39:55,479
+neither now nor ever
+
+420
+00:39:55,489 --> 00:39:58,715
+may you disclose what has transpired.
+
+421
+00:39:58,725 --> 00:40:00,482
+I understand, sir.
+
+422
+00:40:00,492 --> 00:40:03,551
+Neither now nor ever.
+
+423
+00:40:03,561 --> 00:40:04,952
+Yes, sir.
+
+424
+00:40:04,962 --> 00:40:07,963
+And thank you for your help
+in the matter too, doctor.
+
+425
+00:40:20,341 --> 00:40:22,866
+A capital bit of acting, King.
+
+426
+00:40:22,876 --> 00:40:24,868
+Most convincing.
+
+427
+00:40:24,878 --> 00:40:26,903
+But far too realistic, sir.
+
+428
+00:40:26,913 --> 00:40:29,237
+That punch almost fractured my jaw.
+
+429
+00:40:29,247 --> 00:40:31,539
+- Sorry, old man.
+- Incidentally, twynes,
+
+430
+00:40:31,549 --> 00:40:36,343
+you will be buried with
+full military honors tomorrow,
+
+431
+00:40:36,353 --> 00:40:38,977
+and for the benefit of yasmani's agents.
+
+432
+00:40:38,987 --> 00:40:41,946
+I'm sorry I can't attend
+your funeral, old chap.
+
+433
+00:40:41,956 --> 00:40:43,914
+Now gentlemen, we have no time to waste.
+
+434
+00:40:43,924 --> 00:40:46,649
+Is rewa ghunga convinced
+I'm a renegade, sir?
+
+435
+00:40:46,659 --> 00:40:47,883
+Without a doubt.
+
+436
+00:40:47,893 --> 00:40:50,252
+Then he'll rush the news to yasmani.
+
+437
+00:40:50,262 --> 00:40:54,456
+Yasmani is a woman enflamed with power.
+
+438
+00:40:54,466 --> 00:40:57,257
+You must realize, King,
+
+439
+00:40:57,267 --> 00:41:00,693
+that the fanatical natives
+regard her as a goddess,
+
+440
+00:41:00,703 --> 00:41:02,961
+a native Joan of arc.
+
+441
+00:41:02,971 --> 00:41:05,362
+Not quite saintly, though...
+
+442
+00:41:05,372 --> 00:41:08,998
+partial to stall with men.
+
+443
+00:41:09,008 --> 00:41:12,001
+If you should win her interest, King...
+
+444
+00:41:12,011 --> 00:41:14,802
+she has already shown interest, sir.
+
+445
+00:41:14,812 --> 00:41:17,871
+But I don't like the idea
+
+446
+00:41:17,881 --> 00:41:20,240
+of hiding behind a woman's skirts.
+
+447
+00:41:20,250 --> 00:41:22,675
+Oh, forget your schoolboy scruples.
+
+448
+00:41:22,685 --> 00:41:25,243
+This is war.
+Yasmani is our enemy.
+
+449
+00:41:25,253 --> 00:41:28,012
+She threatens the country with disaster.
+
+450
+00:41:28,022 --> 00:41:31,648
+If her favor can further your mission,
+
+451
+00:41:31,658 --> 00:41:33,923
+don't hesitate to use it.
+
+452
+00:41:36,727 --> 00:41:40,487
+This is the dirtiest job I've ever tackled.
+
+453
+00:41:40,497 --> 00:41:42,921
+But I'll see it through, sir.
+
+454
+00:41:42,931 --> 00:41:44,956
+Good. Now when you
+get to the hills,
+
+455
+00:41:44,966 --> 00:41:47,558
+you'll destroy their ammunition dump.
+
+456
+00:41:47,568 --> 00:41:50,960
+Your job is to rob yasmani of her power.
+
+457
+00:41:50,970 --> 00:41:53,996
+And if I fail, sir?
+
+458
+00:41:54,006 --> 00:41:55,964
+Others will follow you.
+
+459
+00:41:55,974 --> 00:41:59,000
+Others have been before and never returned.
+
+460
+00:41:59,010 --> 00:42:01,434
+Oh, by the way,
+
+461
+00:42:01,444 --> 00:42:05,512
+the last was your old chum macgregor.
+
+462
+00:42:11,451 --> 00:42:13,843
+The best of luck, old man.
+
+463
+00:42:13,853 --> 00:42:16,011
+Thanks.
+
+464
+00:42:16,021 --> 00:42:18,912
+Major Mohammed Khan
+
+465
+00:42:18,922 --> 00:42:22,015
+with meet you with a detail
+of lancers in the khyber.
+
+466
+00:42:22,025 --> 00:42:26,019
+> Number one and all's well!
+
+467
+00:42:26,029 --> 00:42:28,420
+the guard, sir...
+
+468
+00:42:28,430 --> 00:42:30,930
+has full instructions.
+
+469
+00:42:37,003 --> 00:42:41,597
+> Number two and all's well!
+
+470
+00:42:41,607 --> 00:42:44,808
+ready, sir.
+
+471
+00:42:50,047 --> 00:42:54,408
+Here's for ye, Malcolm lad.
+
+472
+00:42:54,418 --> 00:42:58,018
+I won't fail you either.
+
+473
+00:42:59,054 --> 00:43:01,713
+Ready. Load.
+
+474
+00:43:01,723 --> 00:43:04,623
+Present. Fire.
+
+475
+00:43:12,964 --> 00:43:15,863
+Hide! Hide out!
+
+476
+00:44:16,017 --> 00:44:20,884
+Thou art a fugitive now, captain King?
+
+477
+00:44:22,520 --> 00:44:26,021
+A fugitive and a murderer.
+
+478
+00:44:46,906 --> 00:44:50,032
+I had heard.
+
+479
+00:44:50,042 --> 00:44:53,109
+But how?
+
+480
+00:44:56,713 --> 00:44:59,072
+Quite so, captain King.
+
+481
+00:44:59,082 --> 00:45:01,982
+I carried the news.
+
+482
+00:45:03,885 --> 00:45:06,409
+I must get out of India at once.
+
+483
+00:45:06,419 --> 00:45:09,011
+They're yapping at my heels.
+
+484
+00:45:09,021 --> 00:45:12,814
+One can leave India
+
+485
+00:45:12,824 --> 00:45:14,948
+even now.
+
+486
+00:45:14,958 --> 00:45:17,917
+Yasmani!
+
+487
+00:45:17,927 --> 00:45:19,952
+That man,
+
+488
+00:45:19,962 --> 00:45:23,955
+he is no son of the prophet!
+
+489
+00:45:23,965 --> 00:45:25,964
+I command you...
+
+490
+00:45:28,601 --> 00:45:30,968
+command?
+
+491
+00:45:41,044 --> 00:45:45,137
+Thou could'st find
+
+492
+00:45:45,147 --> 00:45:47,973
+riches and glory
+
+493
+00:45:47,983 --> 00:45:50,575
+in my service.
+
+494
+00:45:50,585 --> 00:45:52,976
+In your service,
+
+495
+00:45:52,986 --> 00:45:55,044
+even death.
+
+496
+00:45:55,054 --> 00:45:58,947
+But it is not wise to lead an infidel
+
+497
+00:45:58,957 --> 00:46:01,949
+among the faithful.
+
+498
+00:46:01,959 --> 00:46:05,886
+Infidel or not,
+
+499
+00:46:05,896 --> 00:46:08,989
+mine eyes have marked him
+
+500
+00:46:08,999 --> 00:46:11,457
+for my service.
+
+501
+00:46:11,467 --> 00:46:14,927
+Mine eyes rove more
+
+502
+00:46:14,937 --> 00:46:18,004
+than becomes a goddess.
+
+503
+00:46:20,707 --> 00:46:24,100
+A caravan
+
+504
+00:46:24,110 --> 00:46:27,803
+travels through the khyber pass tonight
+
+505
+00:46:27,813 --> 00:46:30,779
+by a secret route.
+
+506
+00:46:33,583 --> 00:46:37,651
+Thou wilt join it.
+
+507
+00:46:57,002 --> 00:47:02,030
+Thou hast the build of a man,
+
+508
+00:47:02,040 --> 00:47:03,906
+captain King.
+
+509
+00:47:13,515 --> 00:47:16,073
+In the hills
+
+510
+00:47:16,083 --> 00:47:20,085
+much will be revealed to thee.
+
+511
+00:47:26,057 --> 00:47:29,083
+You will meet many like yourself
+
+512
+00:47:29,093 --> 00:47:32,853
+in the hills, captain King...
+
+513
+00:47:32,863 --> 00:47:36,922
+soldiers, deserters,
+
+514
+00:47:36,932 --> 00:47:40,792
+who fled after the climax
+
+515
+00:47:40,802 --> 00:47:42,993
+of a blood feud.
+
+516
+00:47:43,003 --> 00:47:46,029
+Those whom the British
+
+517
+00:47:46,039 --> 00:47:49,940
+call murderers.
+
+518
+00:48:53,993 --> 00:48:55,951
+- Och!
+- Aye!
+
+519
+00:48:55,961 --> 00:48:58,152
+It's queer, sergeant, how a man
+
+520
+00:48:58,162 --> 00:49:00,354
+gets out of touch with the world.
+
+521
+00:49:00,364 --> 00:49:04,024
+I haven't even heard
+Saturday's football results.
+
+522
+00:49:04,034 --> 00:49:06,158
+- Och, aye?
+- Aye.
+
+523
+00:49:06,168 --> 00:49:09,161
+Have you heard from your brother, King?
+
+524
+00:49:09,171 --> 00:49:10,962
+Not a word.
+
+525
+00:49:10,972 --> 00:49:13,097
+Well, don't worry.
+He couldn't be
+
+526
+00:49:13,107 --> 00:49:15,932
+in a safer place than India.
+
+527
+00:49:15,942 --> 00:49:19,869
+If you don't stop your
+slurs on Donald, I'll kill you.
+
+528
+00:49:19,879 --> 00:49:22,004
+Laddie laddie laddie.
+
+529
+00:49:22,014 --> 00:49:24,006
+I swear I will!
+
+530
+00:49:24,016 --> 00:49:26,007
+My brother is not a slacker.
+
+531
+00:49:26,017 --> 00:49:29,877
+He... he wouldn't
+fail me. He couldn't!
+
+532
+00:49:29,887 --> 00:49:32,679
+Steady, laddie, steady. You're
+needin' a rest, I'm thinKing.
+
+533
+00:49:32,689 --> 00:49:34,880
+- But Donald is not a slacker.
+- Of course he isn't.
+
+534
+00:49:34,890 --> 00:49:36,882
+You don't think my brother
+would leave me...
+
+535
+00:49:36,892 --> 00:49:39,050
+wherever your brother is,
+he's doing his job.
+
+536
+00:49:39,060 --> 00:49:41,627
+Now quiet down, laddie.
+Have a fag.
+
+537
+00:49:45,064 --> 00:49:47,064
+I'm sorry, kid.
+
+538
+00:49:57,874 --> 00:50:00,141
+Cigarette, Joe?
+
+539
+00:51:38,524 --> 00:51:41,992
+Whoa! Whoa!
+
+540
+00:51:53,303 --> 00:51:55,595
+Who are you?
+
+541
+00:51:55,605 --> 00:51:58,064
+We are for the hills
+
+542
+00:51:58,074 --> 00:52:01,067
+and for her service.
+
+543
+00:52:01,077 --> 00:52:04,602
+What seek ye in her service?
+
+544
+00:52:04,612 --> 00:52:08,105
+A mullah passing through our village
+
+545
+00:52:08,115 --> 00:52:12,074
+promised us fighting and much loot
+
+546
+00:52:12,084 --> 00:52:13,850
+in the holy war.
+
+547
+00:52:15,854 --> 00:52:18,146
+What proof have ye
+
+548
+00:52:18,156 --> 00:52:19,981
+of thy right to aid?
+
+549
+00:52:19,991 --> 00:52:23,416
+We have the tunic,
+
+550
+00:52:23,426 --> 00:52:26,952
+belt and the pistol
+
+551
+00:52:26,962 --> 00:52:30,421
+of a British officer sahib
+
+552
+00:52:30,431 --> 00:52:34,466
+whom we have slain this night.
+
+553
+00:52:37,170 --> 00:52:40,203
+Ye are for the hills.
+
+554
+00:53:40,489 --> 00:53:44,014
+The way to the caves
+
+555
+00:53:44,024 --> 00:53:46,349
+is there.
+
+556
+00:53:46,359 --> 00:53:49,185
+But be warned:
+
+557
+00:53:49,195 --> 00:53:52,254
+Not all who enter
+
+558
+00:53:52,264 --> 00:53:55,497
+return by this road.
+
+559
+00:54:47,539 --> 00:54:51,098
+What horrible torture, Mohammed.
+
+560
+00:54:51,108 --> 00:54:55,168
+Who are those men opening that door
+
+561
+00:54:55,178 --> 00:54:58,043
+on this terrible thing?
+
+562
+00:54:59,679 --> 00:55:02,171
+British soldiers, sahib,
+
+563
+00:55:02,181 --> 00:55:06,074
+and loyal subjects of the raj
+
+564
+00:55:06,084 --> 00:55:09,050
+who have been taken prisoner.
+
+565
+00:55:15,190 --> 00:55:18,015
+Go faster!
+
+566
+00:55:18,025 --> 00:55:20,058
+Go!
+
+567
+00:55:33,505 --> 00:55:38,172
+- Macgregor?
+- Sahib?
+
+568
+00:55:55,621 --> 00:55:57,613
+Macgregor?
+
+569
+00:55:57,623 --> 00:56:01,183
+This is King...
+Donald King.
+
+570
+00:56:01,193 --> 00:56:05,085
+In God's name, be on your guard
+
+571
+00:56:05,095 --> 00:56:07,161
+- every second.
+- Go go!
+
+572
+00:56:09,098 --> 00:56:14,158
+My eyes were put out
+because I spied on them.
+
+573
+00:56:14,168 --> 00:56:18,162
+All Europe is at war.
+Your regiment is in France.
+
+574
+00:56:18,172 --> 00:56:21,564
+God be with them.
+
+575
+00:56:21,574 --> 00:56:24,800
+I'll get you out somehow.
+
+576
+00:56:24,810 --> 00:56:29,337
+Never mind me!
+You carry on.
+
+577
+00:56:29,347 --> 00:56:33,073
+Carry on.
+
+578
+00:56:33,083 --> 00:56:34,182
+Carry on.
+
+579
+00:57:33,228 --> 00:57:36,186
+It is written:
+
+580
+00:57:36,196 --> 00:57:39,222
+"Kill the unbeliever
+
+581
+00:57:39,232 --> 00:57:43,492
+wheresoever thou shalt find them!
+
+582
+00:57:43,502 --> 00:57:46,660
+Make them prisoners
+
+583
+00:57:46,670 --> 00:57:50,797
+and despoil them.
+
+584
+00:57:50,807 --> 00:57:53,800
+For whosoever shall fight
+
+585
+00:57:53,810 --> 00:57:56,434
+for the religion of Allah,
+
+586
+00:57:56,444 --> 00:57:59,403
+whether he be slain
+
+587
+00:57:59,413 --> 00:58:02,873
+or be victorious,
+
+588
+00:58:02,883 --> 00:58:06,809
+we shall surely give him
+
+589
+00:58:06,819 --> 00:58:09,886
+a great reward."
+
+590
+00:58:53,824 --> 00:58:58,459
+Summon all newcomers for judgment.
+
+591
+00:59:00,762 --> 00:59:04,756
+And thou, the strong one...
+
+592
+00:59:04,766 --> 00:59:07,900
+who stands sponsor for thee?
+
+593
+00:59:13,405 --> 00:59:16,498
+Why, you yourself
+
+594
+00:59:16,508 --> 00:59:18,899
+stand sponsor for me, harrim bey.
+
+595
+00:59:18,909 --> 00:59:21,201
+Nay!
+
+596
+00:59:21,211 --> 00:59:24,204
+I know nothing of thy worthiness.
+
+597
+00:59:24,214 --> 00:59:26,614
+We must have proof!
+
+598
+00:59:42,561 --> 00:59:46,194
+I stand sponsor for him.
+
+599
+00:59:49,199 --> 00:59:51,599
+It is an honor.
+
+600
+00:59:57,872 --> 01:00:02,699
+But has it not always
+
+601
+01:00:02,709 --> 01:00:04,933
+been our custom here
+
+602
+01:00:04,943 --> 01:00:07,936
+for all newcomers
+
+603
+01:00:07,946 --> 01:00:10,846
+to test their strength?
+
+604
+01:00:13,316 --> 01:00:17,318
+Will you wrestle for our sport?
+
+605
+01:00:19,922 --> 01:00:22,388
+You...
+
+606
+01:01:45,726 --> 01:01:49,519
+Hear me, my hillmen,
+
+607
+01:01:49,529 --> 01:01:52,996
+my warriors.
+
+608
+01:01:54,866 --> 01:01:59,658
+The hour of the warrior is at hand.
+
+609
+01:01:59,668 --> 01:02:02,961
+Soon thou shalt taste
+
+610
+01:02:02,971 --> 01:02:05,996
+the joys of battle.
+
+611
+01:02:06,006 --> 01:02:08,832
+The fruits of victory
+
+612
+01:02:08,842 --> 01:02:10,975
+shall be thine.
+
+613
+01:02:12,912 --> 01:02:16,537
+Music will play softly
+
+614
+01:02:16,547 --> 01:02:20,541
+for your ease.
+
+615
+01:02:20,551 --> 01:02:23,509
+And virgins
+
+616
+01:02:23,519 --> 01:02:25,986
+will dance for your desires.
+
+617
+01:02:34,861 --> 01:02:36,853
+Bull with a beard,
+
+618
+01:02:36,863 --> 01:02:39,689
+he knows where the ammunitions are, sahib.
+
+619
+01:02:39,699 --> 01:02:41,723
+- We get him.
+- Sahib?
+
+620
+01:02:41,733 --> 01:02:44,567
+Yasmani wishes to see you.
+
+621
+01:02:47,004 --> 01:02:49,629
+- Ready.
+- All right, sahib.
+
+622
+01:02:49,639 --> 01:02:53,506
+Allow me to show you the way, captain King.
+
+623
+01:02:57,512 --> 01:02:59,811
+Thank you, rewa ghunga.
+
+624
+01:03:10,889 --> 01:03:13,948
+Take a squad, release the prisoners.
+
+625
+01:03:13,958 --> 01:03:15,883
+Bring macgregor sahib to me.
+
+626
+01:03:15,893 --> 01:03:17,592
+Sahib.
+
+627
+01:03:21,964 --> 01:03:25,598
+We follow bull with a beard.
+
+628
+01:03:53,052 --> 01:03:56,912
+Bull with a beard, where is the
+ammunition thou promised us?
+
+629
+01:03:56,922 --> 01:03:59,648
+There is no ammunition!
+
+630
+01:03:59,658 --> 01:04:02,050
+I'll have thee hanged!
+
+631
+01:04:02,060 --> 01:04:04,252
+Aye, long have I desired
+
+632
+01:04:04,262 --> 01:04:07,087
+to trim thy glorious beard, harrim bey.
+
+633
+01:04:07,097 --> 01:04:09,055
+Thou dog!
+
+634
+01:04:09,065 --> 01:04:11,991
+I'll have thee boiled in oil!
+
+635
+01:04:12,001 --> 01:04:14,967
+- Oil!
+- Oil, sire.
+
+636
+01:04:20,107 --> 01:04:23,966
+What a glorious beard. In all
+my travels I have ne'er beheld
+
+637
+01:04:23,976 --> 01:04:28,803
+so glorious, gorgeous beard as thine.
+
+638
+01:04:28,813 --> 01:04:31,839
+I think it would look better curled.
+
+639
+01:04:31,849 --> 01:04:34,148
+Where is the ammunition?
+
+640
+01:04:49,262 --> 01:04:51,961
+The ammunition is there.
+
+641
+01:05:04,975 --> 01:05:07,642
+Ahhh!
+
+642
+01:05:23,991 --> 01:05:27,985
+Now we can talk, we three,
+
+643
+01:05:27,995 --> 01:05:31,053
+of glory, wealth
+
+644
+01:05:31,063 --> 01:05:33,897
+and power.
+
+645
+01:05:43,106 --> 01:05:47,207
+I prefer to talk of something else.
+
+646
+01:05:51,079 --> 01:05:52,970
+Something else?
+
+647
+01:05:52,980 --> 01:05:56,005
+I thought we were going to talk
+
+648
+01:05:56,015 --> 01:05:58,607
+of conquest
+
+649
+01:05:58,617 --> 01:06:01,042
+with the wild tribesmen
+
+650
+01:06:01,052 --> 01:06:03,744
+pouring over defenseless India
+
+651
+01:06:03,754 --> 01:06:05,986
+behind their goddess.
+
+652
+01:06:07,956 --> 01:06:11,950
+It seems their goddess
+
+653
+01:06:11,960 --> 01:06:15,026
+is only a woman.
+
+654
+01:06:19,899 --> 01:06:24,266
+Still a goddess to them, rewa ghunga.
+
+655
+01:06:26,003 --> 01:06:29,963
+They would tear any man limb from limb
+
+656
+01:06:29,973 --> 01:06:31,973
+at my command.
+
+657
+01:06:43,084 --> 01:06:46,043
+Are we to lose an empire
+
+658
+01:06:46,053 --> 01:06:49,921
+for a woman's desire?
+
+659
+01:07:17,046 --> 01:07:21,180
+Still an unsuited boy.
+
+660
+01:07:24,952 --> 01:07:27,118
+Come closer.
+
+661
+01:07:34,292 --> 01:07:38,993
+The women of the Western world
+have taught thee poorly.
+
+662
+01:07:43,699 --> 01:07:48,033
+The sign of the faithful
+is not needed with me.
+
+663
+01:08:01,080 --> 01:08:04,940
+I summoned thee, captain King,
+
+664
+01:08:04,950 --> 01:08:09,442
+because Aryan blood flows in my veins
+
+665
+01:08:09,452 --> 01:08:11,885
+as in thine.
+
+666
+01:08:13,922 --> 01:08:18,048
+A white woman in these hills?
+
+667
+01:08:18,058 --> 01:08:21,384
+Yes, captain King...
+
+668
+01:08:21,394 --> 01:08:25,094
+a white woman.
+
+669
+01:08:28,999 --> 01:08:34,026
+Into this land, Alexander the great
+
+670
+01:08:34,036 --> 01:08:37,095
+led a mighty army
+
+671
+01:08:37,105 --> 01:08:39,297
+countless ages ago
+
+672
+01:08:39,307 --> 01:08:43,041
+and took a wife from these northern hills.
+
+673
+01:08:45,078 --> 01:08:47,103
+From him
+
+674
+01:08:47,113 --> 01:08:50,213
+I am descended.
+
+675
+01:08:53,283 --> 01:08:56,042
+I remember
+
+676
+01:08:56,052 --> 01:08:59,445
+one of those early invasions of India
+
+677
+01:08:59,455 --> 01:09:02,447
+had failed.
+
+678
+01:09:02,457 --> 01:09:05,183
+There is a prophesy
+
+679
+01:09:05,193 --> 01:09:09,420
+that when a woman of Alexander's line
+
+680
+01:09:09,430 --> 01:09:14,089
+shall find a mate ordained
+to rule these tribesmen,
+
+681
+01:09:14,099 --> 01:09:16,758
+that conquest
+
+682
+01:09:16,768 --> 01:09:20,093
+shall be fulfilled!
+
+683
+01:09:20,103 --> 01:09:22,061
+So that is the reason
+
+684
+01:09:22,071 --> 01:09:26,005
+these hillmen acclaim you as their goddess.
+
+685
+01:09:27,842 --> 01:09:32,235
+I looked long for that mate
+
+686
+01:09:32,245 --> 01:09:36,972
+who would fulfill the prophesy...
+
+687
+01:09:36,982 --> 01:09:41,041
+a leader, strong, brave,
+
+688
+01:09:41,051 --> 01:09:43,183
+white.
+
+689
+01:09:46,121 --> 01:09:49,947
+Allah has marked thee
+
+690
+01:09:49,957 --> 01:09:52,190
+for that glory.
+
+691
+01:10:02,501 --> 01:10:05,093
+I have been lonely,
+
+692
+01:10:05,103 --> 01:10:07,968
+captain King,
+
+693
+01:10:09,771 --> 01:10:12,037
+for I am a woman.
+
+694
+01:10:14,174 --> 01:10:17,032
+It is not good to be a goddess
+
+695
+01:10:17,042 --> 01:10:20,935
+when one is young...
+
+696
+01:10:20,945 --> 01:10:24,038
+cold, chaste
+
+697
+01:10:24,048 --> 01:10:26,180
+and far off.
+
+698
+01:10:36,857 --> 01:10:39,216
+It is sweeter to be a woman
+
+699
+01:10:39,226 --> 01:10:42,185
+to one man
+
+700
+01:10:42,195 --> 01:10:45,962
+than a goddess to thousands.
+
+701
+01:11:23,097 --> 01:11:25,964
+It can't be.
+
+702
+01:11:40,578 --> 01:11:44,071
+Men have forgotten before.
+
+703
+01:11:44,081 --> 01:11:47,973
+Antony squandered an empire
+
+704
+01:11:47,983 --> 01:11:50,350
+for Cleopatra's favor.
+
+705
+01:11:55,056 --> 01:11:59,049
+Am I less precious to thee
+
+706
+01:11:59,059 --> 01:12:02,919
+than she was in his arms?
+
+707
+01:12:02,929 --> 01:12:05,428
+You don't understand.
+
+708
+01:12:08,231 --> 01:12:12,858
+Since I saw thee first
+'neath my window in peshawar,
+
+709
+01:12:12,868 --> 01:12:17,102
+mine eyes have longed for thee.
+
+710
+01:12:47,597 --> 01:12:50,957
+- And guard them well.
+- Salaam!
+
+711
+01:12:50,967 --> 01:12:54,200
+Guards, salaam!
+Guards! Allah!
+
+712
+01:13:03,175 --> 01:13:06,134
+For all the violence I have displayed
+
+713
+01:13:06,144 --> 01:13:08,169
+towards my fellow man,
+
+714
+01:13:08,179 --> 01:13:10,279
+Allah forgive me.
+
+715
+01:13:16,952 --> 01:13:21,111
+We ride down the khyber
+at the head of my hillmen...
+
+716
+01:13:21,121 --> 01:13:23,947
+Together
+
+717
+01:13:23,957 --> 01:13:28,017
+to win an empire by the dawn.
+
+718
+01:13:28,027 --> 01:13:29,685
+I will go with you,
+
+719
+01:13:29,695 --> 01:13:32,453
+follow you anywhere.
+
+720
+01:13:32,463 --> 01:13:36,123
+But we can't turn
+those wild tribesmen loose
+
+721
+01:13:36,133 --> 01:13:39,291
+to ravish a peaceful country.
+
+722
+01:13:39,301 --> 01:13:42,961
+It only means killing...
+
+723
+01:13:42,971 --> 01:13:46,038
+needless cruelty.
+
+724
+01:13:47,007 --> 01:13:49,965
+Empires are not won
+
+725
+01:13:49,975 --> 01:13:53,234
+by mercy, Donald.
+
+726
+01:13:53,244 --> 01:13:57,012
+The thought of such conquest is madness.
+
+727
+01:13:59,382 --> 01:14:02,041
+It is wisdom.
+
+728
+01:14:02,051 --> 01:14:06,178
+Now is the appointed time.
+
+729
+01:14:06,188 --> 01:14:09,246
+Europe is destroying herself
+
+730
+01:14:09,256 --> 01:14:11,982
+as the prophesy foretold.
+
+731
+01:14:11,992 --> 01:14:16,085
+Her best sons are dying like flies.
+
+732
+01:14:16,095 --> 01:14:19,088
+I have seen it.
+
+733
+01:14:19,098 --> 01:14:21,665
+I will show you.
+
+734
+01:14:30,073 --> 01:14:33,733
+Look.
+
+735
+01:14:33,743 --> 01:14:38,177
+Hold my hands...
+
+736
+01:14:41,148 --> 01:14:44,240
+Tightly.
+
+737
+01:14:44,250 --> 01:14:47,016
+Concentrate.
+
+738
+01:14:48,586 --> 01:14:51,579
+Think of those men
+
+739
+01:14:51,589 --> 01:14:54,747
+you used to know,
+
+740
+01:14:54,757 --> 01:14:59,717
+unfortunates being mowed down
+
+741
+01:14:59,727 --> 01:15:02,618
+in the mud of flanders.
+
+742
+01:15:02,628 --> 01:15:04,753
+Think...
+
+743
+01:15:04,763 --> 01:15:09,065
+think of those men.
+
+744
+01:15:11,135 --> 01:15:13,634
+Think of those men...
+
+745
+01:15:31,149 --> 01:15:33,749
+Come on, boys!
+
+746
+01:15:49,431 --> 01:15:52,064
+Come on!
+
+747
+01:16:48,580 --> 01:16:51,606
+Take me with you, father.
+
+748
+01:16:51,616 --> 01:16:53,415
+Take me with you.
+
+749
+01:17:02,824 --> 01:17:04,781
+Sorry we're late, sir.
+
+750
+01:17:04,791 --> 01:17:07,350
+Quite all right.
+Carry on.
+
+751
+01:17:07,360 --> 01:17:09,493
+Very good, sir.
+
+752
+01:18:07,678 --> 01:18:08,868
+Malcolm.
+
+753
+01:18:08,878 --> 01:18:11,337
+Are you hard hit, laddie?
+
+754
+01:18:11,347 --> 01:18:13,914
+Malcolm, lad!
+
+755
+01:18:29,628 --> 01:18:32,020
+That was my regiment...
+
+756
+01:18:32,030 --> 01:18:35,822
+the black watch.
+
+757
+01:18:35,832 --> 01:18:39,625
+My brother is wounded,
+
+758
+01:18:39,635 --> 01:18:42,294
+perhaps dead.
+
+759
+01:18:42,304 --> 01:18:46,796
+And I've been lying here
+
+760
+01:18:46,806 --> 01:18:49,398
+forgetting everything...
+
+761
+01:18:49,408 --> 01:18:53,934
+duty, honor, loyalty;
+
+762
+01:18:53,944 --> 01:18:58,045
+faithless to my trust.
+
+763
+01:19:02,951 --> 01:19:05,842
+Donald,
+
+764
+01:19:05,852 --> 01:19:07,844
+am I not thine?
+
+765
+01:19:07,854 --> 01:19:09,986
+And art thou not mine?
+
+766
+01:19:13,357 --> 01:19:16,350
+I was sent here to betray you,
+
+767
+01:19:16,360 --> 01:19:20,954
+rob you of your power
+to prevent this holy war.
+
+768
+01:19:20,964 --> 01:19:24,656
+Thy mission was known to me.
+
+769
+01:19:24,666 --> 01:19:27,692
+But it mattered not,
+
+770
+01:19:27,702 --> 01:19:29,994
+for Allah sent thee to me.
+
+771
+01:19:30,004 --> 01:19:32,937
+It can't be.
+
+772
+01:19:42,380 --> 01:19:44,004
+Don't go.
+
+773
+01:19:44,014 --> 01:19:46,973
+Thou art but one man
+
+774
+01:19:46,983 --> 01:19:49,483
+against these merciless thousands.
+
+775
+01:20:07,432 --> 01:20:09,689
+Everything's in readiness, sahib.
+
+776
+01:20:09,699 --> 01:20:11,891
+We found the guns and ammunition.
+
+777
+01:20:11,901 --> 01:20:14,493
+- Good. Macgregor?
+- Has been freed, sahib.
+
+778
+01:20:14,503 --> 01:20:17,895
+- Splendid.
+- We stole it from thy quarters, sahib.
+
+779
+01:20:17,905 --> 01:20:19,930
+Thank you. Now everybody
+to the top of the steps now.
+
+780
+01:20:19,940 --> 01:20:21,998
+Hurry! Guns in position.
+
+781
+01:20:22,008 --> 01:20:25,041
+- Release the prisoner.
+- You take the right, the left.
+
+782
+01:20:28,545 --> 01:20:31,738
+For all the violence I have displayed
+
+783
+01:20:31,748 --> 01:20:36,041
+toward my fellow man...
+
+784
+01:20:36,051 --> 01:20:39,018
+Allah, forgive me.
+
+785
+01:20:48,528 --> 01:20:50,693
+Hands to the right.
+
+786
+01:20:52,997 --> 01:20:56,597
+Everybody, ready!
+
+787
+01:20:57,933 --> 01:21:01,993
+Come on, step to it.
+Machine guns.
+
+788
+01:21:02,003 --> 01:21:05,160
+- 1! 2! 3! 4!
+- Sahib!
+
+789
+01:21:08,473 --> 01:21:11,899
+- Where have you been?
+- Praying, sahib.
+
+790
+01:21:11,909 --> 01:21:15,009
+Take the left flank.
+
+791
+01:21:21,884 --> 01:21:23,708
+- Macgregor.
+- King.
+
+792
+01:21:23,718 --> 01:21:25,810
+Put this in your hand, Mac.
+
+793
+01:21:25,820 --> 01:21:28,412
+- Thank you.
+- Doesn't it feel good?
+
+794
+01:21:28,422 --> 01:21:31,481
+There they are, Mac, in front of you.
+
+795
+01:21:31,491 --> 01:21:33,081
+Kneel.
+
+796
+01:21:33,091 --> 01:21:35,750
+It'll be hot in a minute.
+
+797
+01:21:35,760 --> 01:21:37,960
+Sahib.
+
+798
+01:21:46,736 --> 01:21:50,128
+Yasmani, those machine guns
+are in position.
+
+799
+01:21:50,138 --> 01:21:53,598
+It would mean needless
+slaughter to oppose us now.
+
+800
+01:21:53,608 --> 01:21:55,766
+You can prevent it.
+
+801
+01:21:55,776 --> 01:21:58,068
+At your bidding, your hillmen
+
+802
+01:21:58,078 --> 01:22:00,669
+would lay down their arms and disperse.
+
+803
+01:22:00,679 --> 01:22:02,645
+Will you give the word?
+
+804
+01:22:07,851 --> 01:22:11,051
+Thou hast triumphed.
+
+805
+01:22:36,674 --> 01:22:40,442
+Art thou my followers?
+
+806
+01:22:42,546 --> 01:22:45,938
+Wilt thou obey my command?
+
+807
+01:22:45,948 --> 01:22:47,940
+Aye!
+
+808
+01:22:47,950 --> 01:22:52,810
+Lay down your arms and disperse!
+
+809
+01:22:52,820 --> 01:22:55,820
+The traitoress!
+
+810
+01:23:56,740 --> 01:23:59,798
+Stand fast, Mac.
+You're in charge now.
+
+811
+01:23:59,808 --> 01:24:02,108
+Stand up, buddy.
+
+812
+01:24:04,645 --> 01:24:08,613
+Bayonets, en guard.
+
+813
+01:24:16,221 --> 01:24:18,286
+Yasmani?
+
+814
+01:24:24,060 --> 01:24:26,919
+My soul
+
+815
+01:24:26,929 --> 01:24:29,921
+is long for thee,
+
+816
+01:24:29,931 --> 01:24:31,997
+Donald.
+
+817
+01:24:35,869 --> 01:24:39,235
+My head has rested on thy breast.
+
+818
+01:24:41,272 --> 01:24:45,907
+My lips have burned on thine.
+
+819
+01:24:47,976 --> 01:24:49,934
+Henceforth,
+
+820
+01:24:49,944 --> 01:24:53,804
+no other woman's lips
+
+821
+01:24:53,814 --> 01:24:55,971
+can kiss thee
+
+822
+01:24:55,981 --> 01:25:00,316
+without thou be reminded of me.
+
+823
+01:25:03,187 --> 01:25:08,013
+Thy memory of yasmani
+
+824
+01:25:08,023 --> 01:25:11,924
+will never die.
+
+825
+01:25:15,929 --> 01:25:18,922
+King...
+
+826
+01:25:18,932 --> 01:25:20,998
+Sahib.
+
+827
+01:25:53,061 --> 01:25:56,220
+Mohammed,
+
+828
+01:25:56,230 --> 01:25:59,756
+send one of your men
+
+829
+01:25:59,766 --> 01:26:03,125
+to the general office of command
+
+830
+01:26:03,135 --> 01:26:07,069
+in northwest frontier.
+
+831
+01:26:08,772 --> 01:26:13,332
+Have him deliver this message:
+
+832
+01:26:13,342 --> 01:26:16,068
+"The job
+
+833
+01:26:16,078 --> 01:26:18,278
+is finished.
+
+834
+01:26:19,947 --> 01:26:21,905
+King."
+
+835
+01:26:21,915 --> 01:26:24,115
+Sahib.
+
+836
+01:26:38,928 --> 01:26:41,929
+Gentlemen, the colonel.
+
+837
+01:26:46,767 --> 01:26:48,959
+Gentlemen,
+
+838
+01:26:48,969 --> 01:26:52,062
+it's but a few minutes midnight,
+
+839
+01:26:52,072 --> 01:26:54,964
+the beginning of a new year
+
+840
+01:26:54,974 --> 01:26:59,033
+and the hour for renewing old friendships
+
+841
+01:26:59,043 --> 01:27:04,004
+and re-pledging ancient loyalties.
+
+842
+01:27:04,014 --> 01:27:07,806
+During the long relentless months of war,
+
+843
+01:27:07,816 --> 01:27:10,408
+the regiment
+
+844
+01:27:10,418 --> 01:27:14,111
+has upheld the bravest
+traditions of our country.
+
+845
+01:27:14,121 --> 01:27:17,079
+I salute you, gentlemen,
+
+846
+01:27:17,089 --> 01:27:19,948
+on behalf of those highland chieftains
+
+847
+01:27:19,958 --> 01:27:23,984
+whose honor you have so ably preserved,
+
+848
+01:27:23,994 --> 01:27:27,220
+and for your loyalty to his majesty
+
+849
+01:27:27,230 --> 01:27:29,663
+the King.
+
+850
+01:27:30,999 --> 01:27:33,064
+The King!
+
+851
+01:28:41,291 --> 01:28:44,017
+King!
+
+852
+01:28:44,027 --> 01:28:46,193
+King? King?
+
+853
+01:28:55,736 --> 01:28:59,028
+- Good evening, sir.
+- Good evening.
+
+854
+01:28:59,038 --> 01:29:02,064
+My request for reassignment to
+the black watch has been approved.
+
+855
+01:29:02,074 --> 01:29:05,966
+I'm reporting for duty, sir.
+
+856
+01:29:05,976 --> 01:29:08,234
+The latest "gazette"
+
+857
+01:29:08,244 --> 01:29:12,204
+has news of interest for you gentlemen.
+
+858
+01:29:12,214 --> 01:29:16,006
+Major King of the black watch
+
+859
+01:29:16,016 --> 01:29:18,942
+has been awarded the D.S.O.
+
+860
+01:29:18,952 --> 01:29:23,286
+For gallant service to the crown in India.
+
+861
+01:29:24,955 --> 01:29:26,746
+Glad you're back, King.
+
+862
+01:29:26,756 --> 01:29:29,021
+Thank you, sir.
+
+863
+01:29:32,059 --> 01:29:35,184
+- Just like old times.
+- David,
+
+864
+01:29:35,194 --> 01:29:38,027
+do you feel equal to it?
+
+865
+01:29:39,797 --> 01:29:44,724
+> Should auld acquaintance
+
+866
+01:29:44,734 --> 01:29:47,693
+> be forgot
+
+867
+01:29:47,703 --> 01:29:51,862
+> and never brought
+
+868
+01:29:51,872 --> 01:29:55,565
+> to mind?
+
+869
+01:29:55,575 --> 01:30:00,602
+> should auld acquaintance
+
+870
+01:30:00,612 --> 01:30:03,971
+> be for naught
+
+871
+01:30:03,981 --> 01:30:07,207
+> in the days
+
+872
+01:30:07,217 --> 01:30:09,776
+> of auld
+
+873
+01:30:09,786 --> 01:30:13,779
+> lang syne?
+
+874
+01:30:13,789 --> 01:30:17,182
+> for auld
+
+875
+01:30:17,192 --> 01:30:20,684
+> lang syne
+
+876
+01:30:20,694 --> 01:30:22,786
+> my dear
+
+877
+01:30:22,796 --> 01:30:25,588
+> for auld
+
+878
+01:30:25,598 --> 01:30:26,722
+> lang syne...
+
+879
+01:30:27,032 --> 01:30:29,123
+- Aw, hi!
+- Hi.
+
+880
+01:30:29,133 --> 01:30:33,927
+> We'll drink
+
+881
+01:30:33,937 --> 01:30:35,962
+> a right
+
+882
+01:30:35,972 --> 01:30:40,065
+> gude-Willy waught
+
+883
+01:30:40,075 --> 01:30:43,468
+> for the sake
+
+884
+01:30:43,478 --> 01:30:46,037
+> of auld
+
+885
+01:30:46,047 --> 01:30:50,106
+> lang syne
+
+886
+01:30:50,116 --> 01:30:53,375
+> for auld
+
+887
+01:30:53,385 --> 01:30:56,244
+> lang syne
+
+888
+01:30:56,254 --> 01:30:58,011
+> my dear
+
+889
+01:30:58,021 --> 01:31:00,146
+> for auld
+
+890
+01:31:00,156 --> 01:31:03,983
+> lang syne
+
+891
+01:31:03,993 --> 01:31:07,452
+- > we'll drink...
+- Malcolm.
+
+892
+01:31:07,462 --> 01:31:09,086
+> A right
+
+893
+01:31:09,096 --> 01:31:13,090
+> gude-Willy waught
+
+894
+01:31:13,100 --> 01:31:16,459
+> for the sake
+
+895
+01:31:16,469 --> 01:31:20,996
+> of auld lang syne.
+
+896
+01:31:21,006 --> 01:31:23,398
+top fellow, Malcolm.
+
+897
+01:31:23,408 --> 01:31:26,408
+Happy new year!
+
