@@ -1,0 +1,5438 @@
+1
+00:02:12,437 --> 00:02:13,937
+Come in.
+
+2
+00:02:15,838 --> 00:02:16,839
+What is it, Poole?
+
+3
+00:02:16,923 --> 00:02:18,884
+It's a quarter to three, sir.
+
+4
+00:02:18,967 --> 00:02:21,804
+And your address at the university
+is at 3:00.
+
+5
+00:02:21,887 --> 00:02:23,054
+So it is, Poole.
+
+6
+00:02:23,930 --> 00:02:25,015
+So it is.
+
+7
+00:02:26,766 --> 00:02:30,019
+You know, Poole, you're a nuisance.
+
+8
+00:02:30,103 --> 00:02:30,978
+Yes, sir.
+
+9
+00:02:31,062 --> 00:02:33,147
+But I don't know
+what I should do without you.
+
+10
+00:02:33,439 --> 00:02:34,440
+Thank you, sir.
+
+11
+00:02:34,524 --> 00:02:38,486
+Your sense of duty
+is as impregnable as Gibraltar.
+
+12
+00:02:38,569 --> 00:02:40,405
+Even Bach can't move it.
+
+13
+00:02:40,947 --> 00:02:42,448
+Yes, sir. Thank you, sir.
+
+14
+00:02:42,532 --> 00:02:44,492
+I'm afraid you'll be late, sir.
+
+15
+00:02:45,117 --> 00:02:46,661
+I see you want to get rid of me.
+
+16
+00:02:48,412 --> 00:02:51,124
+All right, Poole. All right.
+
+17
+00:02:59,381 --> 00:03:00,633
+Those are lovely roses, Poole.
+
+18
+00:03:02,509 --> 00:03:03,509
+Thank you, sir.
+
+19
+00:03:15,105 --> 00:03:17,483
+Will you wear your overcoat or cape, sir?
+
+20
+00:03:17,816 --> 00:03:18,816
+Give me my cape.
+
+21
+00:04:01,692 --> 00:04:02,903
+Good afternoon, Jasper.
+
+22
+00:04:03,235 --> 00:04:04,320
+Good afternoon, sir.
+
+23
+00:04:04,862 --> 00:04:07,239
+- Nice day, isn't it?
+- Isn't it, sir?
+
+24
+00:04:08,032 --> 00:04:10,242
+- St. Simons.
+- Yes, sir.
+
+25
+00:04:23,589 --> 00:04:24,965
+- How do you do, sir?
+- Constable.
+
+26
+00:04:27,718 --> 00:04:30,053
+- How are you, Stubbs?
+- Very good, thank you, sir.
+
+27
+00:04:33,556 --> 00:04:35,351
+I won't need you anymore today, Jasper.
+
+28
+00:04:35,726 --> 00:04:37,561
+Dr. Lanyon will take me
+where I'm going later.
+
+29
+00:04:37,645 --> 00:04:38,645
+Yes, sir.
+
+30
+00:04:43,316 --> 00:04:45,528
+- How do you do, Dr. Jekyll?
+- How do you do?
+
+31
+00:04:50,406 --> 00:04:52,700
+- Hello, Hampton.
+- Afternoon, sir.
+
+32
+00:04:53,493 --> 00:04:56,746
+The auditorium is full, sir.
+Always is when you speak, sir.
+
+33
+00:04:57,455 --> 00:04:58,455
+Flattery!
+
+34
+00:05:20,019 --> 00:05:22,813
+- I hope Jekyll's in form today.
+- He's always in form.
+
+35
+00:05:23,189 --> 00:05:25,107
+The old codgers are in for another jolt.
+
+36
+00:05:25,190 --> 00:05:28,527
+I'd wager your friend has something
+up his sleeve again, Dr. Lanyon.
+
+37
+00:05:28,652 --> 00:05:30,280
+Jekyll is always sensational.
+
+38
+00:05:30,363 --> 00:05:32,698
+Always indulging in spectacular theories.
+
+39
+00:05:34,658 --> 00:05:36,743
+Gentlemen... London is so full of fog...
+
+40
+00:05:38,203 --> 00:05:39,913
+that it has penetrated our minds,
+
+41
+00:05:40,956 --> 00:05:42,749
+set boundaries for our vision.
+
+42
+00:05:44,209 --> 00:05:46,211
+As men of science, we should be curious,
+
+43
+00:05:46,795 --> 00:05:48,714
+and bold enough to peer beyond it,
+
+44
+00:05:49,089 --> 00:05:51,383
+into the many wonders it conceals.
+
+45
+00:05:52,092 --> 00:05:54,845
+I shall not dwell today
+on the secrets of the human body
+
+46
+00:05:55,220 --> 00:05:56,763
+in sickness and in health.
+
+47
+00:05:57,388 --> 00:05:59,766
+Today, I want to talk to you
+of a greater marvel.
+
+48
+00:05:59,975 --> 00:06:01,602
+The soul of man.
+
+49
+00:06:03,520 --> 00:06:05,147
+My analysis of this soul,
+
+50
+00:06:06,064 --> 00:06:07,523
+the human psyche,
+
+51
+00:06:08,400 --> 00:06:11,319
+leads me to believe that
+man is not truly one,
+
+52
+00:06:12,279 --> 00:06:13,863
+but truly two.
+
+53
+00:06:14,905 --> 00:06:18,743
+One of him
+strives for the nobilities of life.
+
+54
+00:06:19,286 --> 00:06:20,745
+This, we call his good self.
+
+55
+00:06:21,954 --> 00:06:25,207
+The other, seeks an expression of impulses
+
+56
+00:06:25,291 --> 00:06:28,878
+that bind him to
+some dim animal relation with the earth.
+
+57
+00:06:29,671 --> 00:06:32,048
+This, we may call the bad.
+
+58
+00:06:33,758 --> 00:06:37,053
+These two carry out an eternal struggle
+in the nature of man,
+
+59
+00:06:37,470 --> 00:06:39,096
+yet they are chained together.
+
+60
+00:06:39,847 --> 00:06:42,558
+And that chain
+spells repression to the evil,
+
+61
+00:06:42,767 --> 00:06:44,268
+remorse to the good.
+
+62
+00:06:44,769 --> 00:06:49,190
+Now, if these two selves
+could be separated from each other,
+
+63
+00:06:49,898 --> 00:06:52,068
+how much freer the good in us would be.
+
+64
+00:06:52,526 --> 00:06:54,570
+What heights it might scale.
+
+65
+00:06:55,780 --> 00:06:57,197
+And the so-called evil,
+
+66
+00:06:57,531 --> 00:07:01,661
+once liberated, would fulfill itself
+and trouble us no more.
+
+67
+00:07:02,410 --> 00:07:07,290
+I believe the day is not far off,
+when this separation will be possible.
+
+68
+00:07:08,459 --> 00:07:10,543
+In my experiments, I have found that
+
+69
+00:07:10,627 --> 00:07:13,630
+certain chemicals have the power and the...
+
+70
+00:07:16,549 --> 00:07:19,761
+Tell me, he can split me in two
+like a jolly amoeba.
+
+71
+00:07:19,844 --> 00:07:21,429
+By Jove, it's marvelous.
+
+72
+00:07:21,930 --> 00:07:23,210
+I confess, it's too much for me.
+
+73
+00:07:23,223 --> 00:07:25,863
+Why don't you stay at home
+and send your other self to the lecture?
+
+74
+00:07:26,768 --> 00:07:28,978
+To divide a human being in two?
+Ridiculous!
+
+75
+00:07:29,354 --> 00:07:31,356
+I'm going to try to analyze my psyche.
+
+76
+00:07:31,439 --> 00:07:33,441
+I didn't expect you to
+agree with me, Lanyon.
+
+77
+00:07:33,525 --> 00:07:35,192
+Agree with you? You talk like a lunatic.
+
+78
+00:07:36,236 --> 00:07:37,811
+However I hope you're sane enough
+to remember that
+
+79
+00:07:37,821 --> 00:07:40,365
+we're expected for a consultation
+at the Duchess of Densmore's.
+
+80
+00:07:40,448 --> 00:07:41,448
+- I'm not going.
+- What?
+
+81
+00:07:41,824 --> 00:07:44,993
+Please give the duchess my compliments
+and some castor oil.
+
+82
+00:07:45,077 --> 00:07:45,911
+Now Jekyll.
+
+83
+00:07:45,994 --> 00:07:47,747
+I saw her yesterday.
+She's a bit bilious.
+
+84
+00:07:47,831 --> 00:07:49,623
+More in spirit than in body, I'm afraid.
+
+85
+00:07:50,041 --> 00:07:51,365
+I'm going along to the free wards.
+
+86
+00:07:51,375 --> 00:07:52,793
+My dear fellow, be reasonable.
+
+87
+00:07:53,127 --> 00:07:55,247
+You know how insistent the duchess was
+on your coming.
+
+88
+00:07:55,295 --> 00:07:56,380
+Heaven knows why.
+
+89
+00:07:56,463 --> 00:07:58,590
+You can't neglect her
+for a lot of charity cases.
+
+90
+00:07:58,674 --> 00:07:59,758
+Can't I, though, Lanyon?
+
+91
+00:08:00,092 --> 00:08:02,386
+It's the things one can't do
+that always tempt me.
+
+92
+00:08:02,469 --> 00:08:03,972
+Oh, well, just as you like.
+
+93
+00:08:04,055 --> 00:08:05,671
+But you will remember
+we have a dinner engagement
+
+94
+00:08:05,681 --> 00:08:06,515
+at the Carews' tonight.
+
+95
+00:08:06,598 --> 00:08:07,756
+- Yes, indeed.
+- I'll pick you up later.
+
+96
+00:08:07,766 --> 00:08:09,646
+Thanks, old fellow.
+You'll find me in the wards.
+
+97
+00:08:09,893 --> 00:08:10,894
+See you anon.
+
+98
+00:08:13,480 --> 00:08:15,858
+Mary, what are you doing
+with those crutches?
+
+99
+00:08:16,817 --> 00:08:18,944
+I can't do without them, sir.
+
+100
+00:08:19,403 --> 00:08:21,070
+Yes, you can do without them, Mary.
+
+101
+00:08:21,572 --> 00:08:22,823
+I told you yesterday.
+
+102
+00:08:23,365 --> 00:08:25,075
+Believe me, I can do anything for you.
+
+103
+00:08:27,201 --> 00:08:28,871
+I believe you, sir,
+
+104
+00:08:29,496 --> 00:08:31,915
+but I can't walk without them, sir.
+
+105
+00:08:31,999 --> 00:08:34,041
+Yes, you can. Give them to me.
+
+106
+00:08:34,792 --> 00:08:35,794
+Don't be afraid.
+
+107
+00:08:37,837 --> 00:08:40,506
+Now walk, Mary. Come on. Come to me.
+
+108
+00:08:40,590 --> 00:08:41,674
+Yes, sir.
+
+109
+00:08:44,927 --> 00:08:47,180
+Walk, Mary. Come on.
+
+110
+00:08:49,767 --> 00:08:50,933
+All right, sir.
+
+111
+00:08:52,226 --> 00:08:54,729
+- I can walk, sir.
+- Of course you can.
+
+112
+00:08:54,812 --> 00:08:56,606
+I can walk, sir!
+
+113
+00:08:56,898 --> 00:09:00,943
+Oh! Oh! I can walk, sir!
+
+114
+00:09:01,277 --> 00:09:02,820
+I can walk, sir.
+
+115
+00:09:11,162 --> 00:09:12,871
+There, there, Mrs. Lucas.
+
+116
+00:09:14,957 --> 00:09:17,502
+- It hurts, doesn't it?
+- Yes, sir.
+
+117
+00:09:18,503 --> 00:09:20,963
+Sometimes a doctor must
+hurt you a little to make you well.
+
+118
+00:09:21,047 --> 00:09:22,048
+Yes, sir.
+
+119
+00:09:22,131 --> 00:09:25,051
+And if a doctor thinks
+a slight operation is necessary,
+
+120
+00:09:25,134 --> 00:09:26,541
+there's no need to be afraid, is there?
+
+121
+00:09:26,551 --> 00:09:27,427
+No, sir.
+
+122
+00:09:27,511 --> 00:09:29,429
+I want you to know it's going to cure you.
+
+123
+00:09:29,513 --> 00:09:31,432
+I believe you, sir.
+
+124
+00:09:32,182 --> 00:09:34,769
+Jekyll, we haven't much time, you know?
+
+125
+00:09:34,852 --> 00:09:37,229
+I'm sorry, Lanyon.
+I'm afraid I must miss the dinner.
+
+126
+00:09:37,312 --> 00:09:38,792
+I'll come afterwards for the dancing.
+
+127
+00:09:38,855 --> 00:09:39,898
+Why, what's keeping you?
+
+128
+00:09:40,065 --> 00:09:41,734
+I must operate on this patient at once.
+
+129
+00:09:41,818 --> 00:09:43,985
+Well, why not leave it to
+one of the house surgeons?
+
+130
+00:09:44,486 --> 00:09:45,695
+They're quite competent.
+
+131
+00:09:45,779 --> 00:09:48,489
+Perhaps, but I prefer to do it myself.
+
+132
+00:09:49,199 --> 00:09:51,909
+Will you make my excuses
+to General Carew and Muriel, please?
+
+133
+00:09:52,369 --> 00:09:53,369
+As you like.
+
+134
+00:09:53,870 --> 00:09:56,248
+Oh, Lanyon.
+You make my excuses to the General,
+
+135
+00:09:56,706 --> 00:09:58,666
+and I'll make mine to Muriel myself.
+
+136
+00:09:58,749 --> 00:10:00,043
+Oh, well, all right.
+
+137
+00:10:00,126 --> 00:10:01,336
+Yes, Miss Muriel?
+
+138
+00:10:01,419 --> 00:10:03,213
+Will it be almond cakes
+with coffee, Hobson?
+
+139
+00:10:03,296 --> 00:10:04,922
+I'm sorry, miss, but I don't think so.
+
+140
+00:10:05,381 --> 00:10:06,842
+Oh, but we must have almond cakes.
+
+141
+00:10:07,175 --> 00:10:08,874
+- Send for them immediately.
+- Very good, miss.
+
+142
+00:10:08,884 --> 00:10:11,179
+What's this?
+What's this about almond cakes?
+
+143
+00:10:11,470 --> 00:10:12,972
+Dr. Jekyll likes them, Father.
+
+144
+00:10:13,056 --> 00:10:15,224
+You know,
+you'll spoil that fiance of yours.
+
+145
+00:10:15,307 --> 00:10:17,602
+- I like spoiling him.
+- Mm, so I observe.
+
+146
+00:10:18,060 --> 00:10:19,311
+And what about your father?
+
+147
+00:10:19,395 --> 00:10:21,715
+Well, you're already
+the most spoiled darling in the world.
+
+148
+00:10:21,772 --> 00:10:22,815
+Dr. Lanyon.
+
+149
+00:10:23,525 --> 00:10:25,359
+Ah, Lanyon, delighted to see you.
+
+150
+00:10:25,442 --> 00:10:27,653
+Punctual for dinner,
+punctual in everything, eh?
+
+151
+00:10:27,736 --> 00:10:30,030
+- How do you do, sir?
+- What an astonishing motto, Father.
+
+152
+00:10:30,114 --> 00:10:31,754
+- How do you do, Muriel?
+- Where's Jekyll?
+
+153
+00:10:31,782 --> 00:10:33,409
+He stayed to perform an operation.
+
+154
+00:10:33,492 --> 00:10:35,526
+- Oh, isn't he coming?
+- He will be in after dinner.
+
+155
+00:10:35,536 --> 00:10:37,204
+He asked me to make his excuses.
+
+156
+00:10:37,288 --> 00:10:39,915
+I hope the patient is
+worthy of Jekyll's attention.
+
+157
+00:10:39,999 --> 00:10:41,792
+A woman in the free wards.
+
+158
+00:10:42,501 --> 00:10:43,501
+Free ward?
+
+159
+00:10:43,752 --> 00:10:46,547
+Jekyll gives entirely too much time
+to his charity patients.
+
+160
+00:10:46,630 --> 00:10:49,216
+- Oh, I love him for that.
+- Nonsense, my dear.
+
+161
+00:10:49,300 --> 00:10:50,884
+He ought to come down to earth.
+
+162
+00:10:50,967 --> 00:10:53,678
+- Mr. Utterson.
+- Ah, Utterson.
+
+163
+00:10:54,721 --> 00:10:57,056
+However, I've promised Harry
+the first waltz.
+
+164
+00:10:57,682 --> 00:10:59,643
+If he's late, I shall be furious.
+
+165
+00:10:59,727 --> 00:11:01,352
+Oh, no.
+
+166
+00:11:15,533 --> 00:11:18,828
+You know, I'm very glad Jekyll is late.
+
+167
+00:11:19,370 --> 00:11:22,415
+I'm obliged to him
+for a most delightful waltz.
+
+168
+00:11:30,715 --> 00:11:31,716
+Thank you.
+
+169
+00:11:33,133 --> 00:11:37,472
+Hello, General.
+I'm very sorry to be late, sir. Muriel.
+
+170
+00:11:37,555 --> 00:11:40,808
+Well, repentance is a virtue, Jekyll,
+but it's better to be punctual.
+
+171
+00:11:41,643 --> 00:11:43,727
+In 40 years,
+I've never been late for dinner.
+
+172
+00:11:43,810 --> 00:11:45,219
+It's indeed a remarkable record, sir.
+
+173
+00:11:45,229 --> 00:11:47,397
+Oh, merely a matter of training, my boy.
+
+174
+00:11:47,482 --> 00:11:48,650
+- At the age of...
+- General?
+
+175
+00:11:50,150 --> 00:11:52,153
+You've not forgotten this is our dance?
+
+176
+00:11:52,235 --> 00:11:53,904
+Oh, certainly not, Lady Dakin.
+
+177
+00:11:53,987 --> 00:11:56,490
+I've been looking forward to it.
+Uh, see you later, Jekyll.
+
+178
+00:11:57,491 --> 00:11:58,742
+- May I?
+- I shouldn't.
+
+179
+00:11:58,825 --> 00:11:59,825
+But you will.
+
+180
+00:12:04,039 --> 00:12:06,166
+- Was she pretty?
+- Ravishing.
+
+181
+00:12:06,458 --> 00:12:08,168
+- Who?
+- Your patient.
+
+182
+00:12:08,251 --> 00:12:10,045
+Oh, I was thinking of someone else.
+
+183
+00:12:10,587 --> 00:12:11,837
+Someone to make you late again?
+
+184
+00:12:12,464 --> 00:12:14,132
+- Are you chiding me?
+- Of course.
+
+185
+00:12:15,049 --> 00:12:16,802
+- Because you hate me?
+- Of course, silly.
+
+186
+00:12:18,136 --> 00:12:20,722
+Well, then, will you come
+into the garden where I can bear it?
+
+187
+00:12:20,806 --> 00:12:22,557
+- Certainly not.
+- Why not?
+
+188
+00:12:22,975 --> 00:12:24,892
+Father. He'd be furious.
+
+189
+00:12:25,393 --> 00:12:26,436
+It will do him good.
+
+190
+00:12:27,229 --> 00:12:28,437
+Well, he's not looking.
+
+191
+00:12:28,521 --> 00:12:30,315
+He's teaching Lady Dakin how to waltz.
+
+192
+00:12:38,823 --> 00:12:40,784
+- We shan't stay long.
+- Just forever.
+
+193
+00:12:40,867 --> 00:12:42,952
+Oh, no. Not even half as long as that.
+
+194
+00:12:52,586 --> 00:12:55,756
+Now, my farthing, chide me,
+mock me, hate me,
+
+195
+00:12:56,090 --> 00:12:57,466
+but don't send me away.
+
+196
+00:12:58,175 --> 00:13:00,719
+Silly. Are you sorry you were late?
+
+197
+00:13:01,137 --> 00:13:02,805
+- Oh, no.
+- You're not?
+
+198
+00:13:02,888 --> 00:13:04,630
+If I hadn't been late,
+you wouldn't have pouted.
+
+199
+00:13:04,640 --> 00:13:05,516
+I shall never forgive...
+
+200
+00:13:05,599 --> 00:13:06,716
+If you hadn't pouted,
+you wouldn't have looked
+
+201
+00:13:06,726 --> 00:13:07,726
+so divinely pretty.
+
+202
+00:13:08,269 --> 00:13:09,719
+Do you talk this way to your patients?
+
+203
+00:13:09,729 --> 00:13:12,329
+If you hadn't looked so divinely pretty,
+I might have postponed...
+
+204
+00:13:13,566 --> 00:13:15,067
+- Pardon?
+- Not another word.
+
+205
+00:13:15,568 --> 00:13:17,652
+Well?
+
+206
+00:13:18,446 --> 00:13:20,822
+I might have postponed telling you
+that I love you so much
+
+207
+00:13:21,031 --> 00:13:22,825
+that I don't want to wait any longer.
+
+208
+00:13:23,491 --> 00:13:24,701
+I want you to marry me now.
+
+209
+00:13:25,578 --> 00:13:27,454
+Oh, darling, I want to with all my heart.
+
+210
+00:13:27,996 --> 00:13:30,749
+You know I do, but father's so difficult.
+
+211
+00:13:31,124 --> 00:13:32,668
+I don't wanna marry your father.
+
+212
+00:13:33,668 --> 00:13:35,118
+I don't mind having
+a difficult father-in-law.
+
+213
+00:13:35,128 --> 00:13:36,380
+You'd be worth it, my darling.
+
+214
+00:13:37,505 --> 00:13:39,007
+I don't think you love me seriously.
+
+215
+00:13:39,090 --> 00:13:40,717
+Oh, I love you better than that.
+
+216
+00:13:41,301 --> 00:13:43,595
+I love you gaily, happily, high-heartedly.
+
+217
+00:13:44,220 --> 00:13:46,431
+I love you so much
+that I could laugh and sing and...
+
+218
+00:13:47,140 --> 00:13:49,851
+Oh, no, I shouldn't spoil it
+by trying to sing.
+
+219
+00:13:50,351 --> 00:13:51,603
+Oh, my darling,
+
+220
+00:13:51,895 --> 00:13:53,815
+I shall persuade your father
+to let us marry now.
+
+221
+00:13:54,064 --> 00:13:55,523
+I can't wait any longer.
+
+222
+00:13:56,190 --> 00:13:57,901
+We shall go to Devon for our honeymoon,
+
+223
+00:13:58,026 --> 00:14:01,362
+and live on love and strawberries,
+and the sight of the sea.
+
+224
+00:14:01,446 --> 00:14:03,530
+- And moonlight.
+- Endless moonlight.
+
+225
+00:14:05,450 --> 00:14:07,535
+Oh, I do love you seriously.
+
+226
+00:14:08,995 --> 00:14:12,082
+So seriously that it frightens me.
+
+227
+00:14:13,874 --> 00:14:17,669
+You've opened a gate for me
+into another world.
+
+228
+00:14:18,713 --> 00:14:21,800
+Before that, my work was everything.
+
+229
+00:14:22,174 --> 00:14:24,928
+I was drawn to the mysteries of science,
+to the unknown.
+
+230
+00:14:26,053 --> 00:14:29,098
+But now, the unknown wears your face.
+
+231
+00:14:31,183 --> 00:14:34,186
+Looks back at me with your eyes.
+
+232
+00:14:35,604 --> 00:14:39,358
+Darling, I wish
+this moment would last forever.
+
+233
+00:14:40,025 --> 00:14:41,443
+You can make it last, dear.
+
+234
+00:14:42,778 --> 00:14:44,071
+Oh, I love you.
+
+235
+00:14:45,071 --> 00:14:46,323
+Be near me always.
+
+236
+00:14:47,866 --> 00:14:52,120
+- Always? You and I?
+- Apart from the world.
+
+237
+00:14:52,328 --> 00:14:56,082
+I love you, darling. I love you.
+
+238
+00:14:57,376 --> 00:14:59,252
+Then who shall ever separate us?
+
+239
+00:15:01,587 --> 00:15:05,466
+- My sweet friend.
+- Oh, my love. My love.
+
+240
+00:15:36,414 --> 00:15:38,457
+You ought to wear squeaky shoes, Hobson.
+
+241
+00:15:38,541 --> 00:15:39,750
+Yes, sir. Thank you, sir.
+
+242
+00:15:40,333 --> 00:15:42,573
+The General asks you to
+come into the house, Miss Muriel.
+
+243
+00:15:42,628 --> 00:15:44,379
+Your guests are enquiring about you.
+
+244
+00:15:44,713 --> 00:15:45,713
+Coming, Hobson.
+
+245
+00:16:29,465 --> 00:16:30,790
+- Charming evening, sir.
+- Glad you came, Bonner.
+
+246
+00:16:30,800 --> 00:16:31,917
+- Good night, Muriel.
+- Good night.
+
+247
+00:16:31,927 --> 00:16:33,334
+You looked perfectly lovely tonight, dear.
+
+248
+00:16:33,344 --> 00:16:34,179
+Thank you.
+
+249
+00:16:34,304 --> 00:16:35,638
+- Goodbye, my dear.
+- Goodbye.
+
+250
+00:16:35,721 --> 00:16:36,764
+Good night, General.
+
+251
+00:16:36,847 --> 00:16:39,058
+I don't know when
+I've enjoyed myself so much.
+
+252
+00:16:39,183 --> 00:16:40,017
+I'm glad.
+
+253
+00:16:40,100 --> 00:16:41,603
+I'll see you at tea tomorrow, dear.
+
+254
+00:16:41,686 --> 00:16:44,146
+Yes. I won't forget, Lady Dakin.
+Good night.
+
+255
+00:16:44,230 --> 00:16:45,522
+- Good night.
+- Good night.
+
+256
+00:16:45,606 --> 00:16:48,068
+Ah, Jekyll, my boy. Waiting to see me?
+
+257
+00:16:48,151 --> 00:16:49,193
+I beg your pardon, sir,
+
+258
+00:16:49,276 --> 00:16:50,768
+but you would make Muriel and me very happy
+
+259
+00:16:50,778 --> 00:16:52,538
+if you'd set an earlier date
+for our wedding.
+
+260
+00:16:53,447 --> 00:16:54,949
+I've already announced to you
+
+261
+00:16:55,033 --> 00:16:57,868
+that you would be married
+on the anniversary of my own wedding.
+
+262
+00:16:57,952 --> 00:16:59,312
+That's eight months from now, sir.
+
+263
+00:16:59,703 --> 00:17:00,621
+Well, what of it?
+
+264
+00:17:00,704 --> 00:17:02,424
+We've already been engaged two months, sir.
+
+265
+00:17:03,040 --> 00:17:03,916
+We see no reason to...
+
+266
+00:17:03,999 --> 00:17:06,418
+I presume I have some rights in the matter.
+
+267
+00:17:06,502 --> 00:17:08,302
+Quite right, sir.
+That's why we're asking you.
+
+268
+00:17:08,378 --> 00:17:09,880
+Well, why this impatience?
+
+269
+00:17:10,547 --> 00:17:12,716
+Hang it all, man. It isn't done.
+It isn't done.
+
+270
+00:17:12,800 --> 00:17:15,802
+I'm sorry, sir, but I cannot regard that
+as a serious objection.
+
+271
+00:17:16,178 --> 00:17:17,513
+Do you hear this, Lanyon?
+
+272
+00:17:18,263 --> 00:17:20,808
+Is this another evidence
+of your eccentricity?
+
+273
+00:17:21,349 --> 00:17:23,894
+If it is eccentric
+to be impatient in love, sir, I am.
+
+274
+00:17:24,644 --> 00:17:26,396
+This is positively indecent.
+
+275
+00:17:26,479 --> 00:17:28,940
+Father, do you think it's fair
+to keep us apart for so long?
+
+276
+00:17:29,023 --> 00:17:31,567
+I waited five years for your mother.
+
+277
+00:17:31,651 --> 00:17:33,211
+You have a sturdy temperament, General.
+
+278
+00:17:33,278 --> 00:17:35,655
+Yes, yes, I pride myself on it.
+
+279
+00:17:35,738 --> 00:17:37,824
+Please don't make me wait that long
+for Muriel.
+
+280
+00:17:37,907 --> 00:17:40,118
+Now, my boy,
+you must leave these matters to me.
+
+281
+00:17:40,368 --> 00:17:42,787
+There's such a thing as
+decent observance, you know?
+
+282
+00:17:43,621 --> 00:17:45,623
+- Good night.
+- Good night, sir.
+
+283
+00:17:46,416 --> 00:17:47,976
+- Good night, Lanyon.
+- Good night, sir.
+
+284
+00:17:48,584 --> 00:17:49,585
+Au revoir, my sweet.
+
+285
+00:17:51,671 --> 00:17:52,505
+Come, Lanyon.
+
+286
+00:17:52,630 --> 00:17:53,990
+- Good night, Muriel.
+- Good night.
+
+287
+00:18:01,973 --> 00:18:04,308
+Well, I'm afraid you offended the General.
+
+288
+00:18:04,391 --> 00:18:05,476
+Offended him?
+
+289
+00:18:06,227 --> 00:18:08,395
+It's a pity I didn't strangle
+the old walrus.
+
+290
+00:18:08,938 --> 00:18:11,440
+Did you hear him? "Wait. Wait."
+
+291
+00:18:11,898 --> 00:18:13,525
+What the devil does one wait for?
+
+292
+00:18:16,237 --> 00:18:18,155
+Well, I hope
+the responsibilities of marriage
+
+293
+00:18:18,238 --> 00:18:19,282
+will sober you up.
+
+294
+00:18:19,574 --> 00:18:21,734
+I'm not marrying to be sober.
+I'm marrying to be drunk.
+
+295
+00:18:22,326 --> 00:18:24,202
+Drunk with love and life and experiments.
+
+296
+00:18:24,286 --> 00:18:26,080
+Your experiments are absurd,
+my dear fellow.
+
+297
+00:18:26,164 --> 00:18:27,998
+Ha! You have no interest
+in science at all.
+
+298
+00:18:28,415 --> 00:18:30,292
+You have no dreams, no curiosity.
+
+299
+00:18:30,375 --> 00:18:32,877
+There are bounds
+beyond which one should not go.
+
+300
+00:18:32,961 --> 00:18:34,463
+Yes. It isn't done, I suppose.
+
+301
+00:18:34,546 --> 00:18:36,548
+I tell you, there are no bounds, Lanyon.
+
+302
+00:18:37,257 --> 00:18:38,300
+Look at that gas lamp.
+
+303
+00:18:38,383 --> 00:18:40,542
+But for some man's curiosity,
+we should not have had it.
+
+304
+00:18:40,552 --> 00:18:42,512
+London would still be lighted by linkboys.
+
+305
+00:18:43,054 --> 00:18:46,098
+And wait. One day,
+London will glow with incandescence,
+
+306
+00:18:46,307 --> 00:18:49,226
+and will be so beautiful
+that even you will be moved by it.
+
+307
+00:18:49,310 --> 00:18:51,855
+Well, I find London
+quite satisfactory as it is,
+
+308
+00:18:51,938 --> 00:18:54,608
+and I'm not interested in your shortcuts
+and your byways.
+
+309
+00:18:54,691 --> 00:18:57,694
+But it's in the byways
+that the secrets and wonders lie.
+
+310
+00:18:57,778 --> 00:19:00,321
+In science and in life. Look at the...
+
+311
+00:19:01,365 --> 00:19:03,032
+Let go, or I'll bash you in the jaw.
+
+312
+00:19:03,115 --> 00:19:05,035
+Go on, you big brute.
+Hit me. Hit me.
+
+313
+00:19:05,118 --> 00:19:06,577
+I'll put the police on you.
+
+314
+00:19:07,996 --> 00:19:09,330
+You'll put the police on me?
+
+315
+00:19:14,920 --> 00:19:15,836
+Are you badly hurt?
+
+316
+00:19:15,920 --> 00:19:16,796
+Oh, you poor girl.
+
+317
+00:19:16,879 --> 00:19:17,912
+Where does this girl live?
+
+318
+00:19:17,922 --> 00:19:20,549
+Upstairs, first door to the left
+at the top of the stairs.
+
+319
+00:19:20,716 --> 00:19:22,510
+Bring her up here.
+
+320
+00:19:22,593 --> 00:19:25,471
+Oh, sweetheart.
+
+321
+00:19:25,554 --> 00:19:28,598
+Make way for the governor.
+Have you got her, governor?
+
+322
+00:19:29,600 --> 00:19:31,893
+- Right up here?
+- Yes. Look out for her head.
+
+323
+00:19:33,562 --> 00:19:34,938
+Oh, shut up, you lot!
+
+324
+00:19:39,275 --> 00:19:40,486
+What was this all about?
+
+325
+00:19:40,694 --> 00:19:42,028
+Ivy Pearson, sir.
+
+326
+00:19:42,153 --> 00:19:43,938
+- One of Ivy Pearson's callers...
+- I can tell you...
+
+327
+00:19:43,948 --> 00:19:45,907
+Now, shut up! One of Ivy...
+
+328
+00:19:47,076 --> 00:19:50,329
+That swine. Hit me, will he?
+
+329
+00:19:50,413 --> 00:19:53,499
+He'll wish he hadn't!
+He'll wish he hadn't!
+
+330
+00:19:53,582 --> 00:19:56,709
+I ain't afraid of him, I ain't.
+Blast his dirty mug!
+
+331
+00:19:57,128 --> 00:19:59,045
+He's killed me, that's what he's done.
+
+332
+00:19:59,838 --> 00:20:01,548
+He's broken me jaw and me knee, too.
+
+333
+00:20:02,090 --> 00:20:03,174
+I'll get him for this.
+
+334
+00:20:08,555 --> 00:20:09,639
+Look where he kicked me.
+
+335
+00:20:12,225 --> 00:20:13,226
+It's only a bruise.
+
+336
+00:20:14,059 --> 00:20:15,218
+It will be quite well in a few days.
+
+337
+00:20:15,228 --> 00:20:17,788
+By the way, you mustn't wear
+so tight a garter. It's bad for you.
+
+338
+00:20:20,482 --> 00:20:22,485
+It impedes the circulation.
+
+339
+00:20:26,448 --> 00:20:28,157
+It's awful kind of you to look after me.
+
+340
+00:20:28,867 --> 00:20:31,786
+Anybody can see now
+that you're a real gent, you are.
+
+341
+00:20:32,579 --> 00:20:35,498
+Now you're the kind
+a woman would do something for.
+
+342
+00:20:36,416 --> 00:20:37,416
+You'll be all right.
+
+343
+00:20:38,375 --> 00:20:39,586
+Good night.
+
+344
+00:20:39,669 --> 00:20:42,254
+- What is it?
+- He's hit me here, too, the blighter.
+
+345
+00:20:42,338 --> 00:20:44,506
+He's broken me ribs, that's what he's done.
+
+346
+00:20:45,174 --> 00:20:46,217
+I'm going to faint.
+
+347
+00:20:49,052 --> 00:20:50,471
+You're not seriously hurt.
+
+348
+00:20:51,763 --> 00:20:53,483
+A bit of rest would do you no harm, though.
+
+349
+00:20:54,850 --> 00:20:56,101
+You think I ought to go to bed?
+
+350
+00:20:57,186 --> 00:20:59,271
+I know of no better place for a rest.
+
+351
+00:20:59,687 --> 00:21:01,273
+Oh. All right.
+
+352
+00:21:02,316 --> 00:21:03,525
+You turn your eyes away now.
+
+353
+00:22:05,669 --> 00:22:07,672
+How is the pain now?
+
+354
+00:22:12,968 --> 00:22:13,968
+I say!
+
+355
+00:22:15,095 --> 00:22:16,555
+Oh. Lanyon.
+
+356
+00:22:17,431 --> 00:22:19,349
+Coming.
+
+357
+00:22:21,935 --> 00:22:24,688
+I'm a doctor, you know,
+and I'll call that kiss my fee.
+
+358
+00:22:28,984 --> 00:22:30,026
+Well?
+
+359
+00:22:33,488 --> 00:22:35,574
+Come back soon, won't you?
+
+360
+00:22:35,657 --> 00:22:37,116
+Sorry, I'm afraid I can't.
+
+361
+00:22:37,199 --> 00:22:38,660
+Oh, yes, you can.
+
+362
+00:22:38,743 --> 00:22:39,953
+Soon.
+
+363
+00:22:41,538 --> 00:22:43,789
+- Good night.
+- Come back.
+
+364
+00:22:51,673 --> 00:22:54,258
+Come back soon, won't you?
+
+365
+00:22:56,011 --> 00:22:57,011
+Oh, yes, you can.
+
+366
+00:22:57,845 --> 00:22:58,845
+Soon.
+
+367
+00:22:59,930 --> 00:23:01,599
+Come back.
+
+368
+00:23:03,392 --> 00:23:05,561
+I thought your conduct
+quite disgusting, Jekyll.
+
+369
+00:23:05,645 --> 00:23:07,479
+Conduct? Why, a pretty girl kissed me.
+
+370
+00:23:07,771 --> 00:23:09,171
+Should I have called the constable?
+
+371
+00:23:09,482 --> 00:23:11,025
+- Even suppose I'd liked it.
+- What?
+
+372
+00:23:11,275 --> 00:23:12,109
+Yes.
+
+373
+00:23:12,192 --> 00:23:14,393
+That's not a matter of conduct,
+but of elementary instinct.
+
+374
+00:23:14,403 --> 00:23:15,883
+You ought to control those instincts.
+
+375
+00:23:16,488 --> 00:23:18,991
+Are you pretending that
+you either can or do?
+
+376
+00:23:19,532 --> 00:23:21,827
+We may control our actions,
+but not our impulses.
+
+377
+00:23:22,077 --> 00:23:24,288
+Perhaps you've forgotten
+you're engaged to Muriel.
+
+378
+00:23:25,247 --> 00:23:26,247
+Forgotten it?
+
+379
+00:23:27,583 --> 00:23:30,043
+Can a man dying of thirst forget water?
+
+380
+00:23:31,629 --> 00:23:34,509
+And do you know what would happen
+to that thirst if it were denied water?
+
+381
+00:23:35,090 --> 00:23:37,843
+If I understand you correctly,
+you sound almost indecent.
+
+382
+00:23:38,844 --> 00:23:40,596
+What names you give things.
+
+383
+00:23:41,055 --> 00:23:42,735
+Well, why aren't you frank enough to admit
+
+384
+00:23:42,805 --> 00:23:44,600
+that other indecent self in you?
+
+385
+00:23:45,017 --> 00:23:47,185
+No. You prefer to hide it,
+pretend it isn't there.
+
+386
+00:23:47,268 --> 00:23:49,908
+- You have to accept certain things.
+- I don't want to accept them.
+
+387
+00:23:50,063 --> 00:23:51,815
+I want to be clean, not only in my conduct,
+
+388
+00:23:51,899 --> 00:23:53,539
+but in my innermost thoughts and desires.
+
+389
+00:23:54,442 --> 00:23:56,194
+- There's only one way to do it.
+- How?
+
+390
+00:23:57,195 --> 00:23:58,655
+Separate the two natures in us.
+
+391
+00:23:58,738 --> 00:24:00,531
+Oh, that absurd theory of yours.
+
+392
+00:24:00,615 --> 00:24:02,158
+I tell you, it's unscientific
+
+393
+00:24:02,241 --> 00:24:03,881
+not to admit the possibility of anything.
+
+394
+00:24:04,160 --> 00:24:06,788
+- Oh, you're mad.
+- Mad, eh, Lanyon?
+
+395
+00:24:07,914 --> 00:24:08,914
+Oh, we'll see.
+
+396
+00:24:10,375 --> 00:24:11,375
+We'll see.
+
+397
+00:24:49,454 --> 00:24:51,790
+Come in.
+
+398
+00:25:00,881 --> 00:25:01,881
+What is it, Poole?
+
+399
+00:25:02,092 --> 00:25:03,812
+Begging your pardon for the intrusion, sir,
+
+400
+00:25:03,843 --> 00:25:05,762
+but did you sleep last night, sir?
+
+401
+00:25:06,346 --> 00:25:07,388
+Don't worry about me.
+
+402
+00:25:07,471 --> 00:25:10,683
+Yes, sir, but you had only a cup of tea
+for breakfast for three days.
+
+403
+00:25:10,766 --> 00:25:11,766
+Your health.
+
+404
+00:25:12,018 --> 00:25:14,738
+Now, Poole, you didn't come here
+to enquire after my health, did you?
+
+405
+00:25:15,230 --> 00:25:17,356
+One of General Carew's servants
+brought this, sir.
+
+406
+00:25:27,616 --> 00:25:29,817
+Miss Muriel is scolding me
+for having missed a dinner last night.
+
+407
+00:25:29,827 --> 00:25:30,661
+Yes, sir.
+
+408
+00:25:30,745 --> 00:25:31,777
+Go to her at once and tell her that
+
+409
+00:25:31,787 --> 00:25:33,320
+I shall certainly come to dinner
+tomorrow night.
+
+410
+00:25:33,330 --> 00:25:34,330
+Very good, sir.
+
+411
+00:28:15,573 --> 00:28:16,615
+Marry me now.
+
+412
+00:28:17,575 --> 00:28:19,075
+I can't wait any longer.
+
+413
+00:28:19,159 --> 00:28:20,703
+Positively indecent.
+
+414
+00:28:20,912 --> 00:28:22,163
+Look where he kicked me.
+
+415
+00:28:22,370 --> 00:28:23,748
+Your conduct was disgusting.
+
+416
+00:28:23,915 --> 00:28:26,625
+It isn't done. It isn't done.
+
+417
+00:28:26,708 --> 00:28:28,085
+Pity I didn't strangle him.
+
+418
+00:28:28,836 --> 00:28:30,128
+Strangle him.
+
+419
+00:28:30,211 --> 00:28:31,839
+Indecent. Indecent.
+
+420
+00:28:31,923 --> 00:28:35,550
+Can a man dying of thirst forget water?
+
+421
+00:28:35,634 --> 00:28:36,634
+Disgusting.
+
+422
+00:28:37,177 --> 00:28:38,179
+You're mad. Mad.
+
+423
+00:28:38,262 --> 00:28:40,055
+Come back soon, won't you?
+
+424
+00:28:41,599 --> 00:28:42,599
+Come back.
+
+425
+00:28:43,391 --> 00:28:44,391
+Come back.
+
+426
+00:28:45,727 --> 00:28:46,727
+Come back.
+
+427
+00:28:48,272 --> 00:28:49,272
+Come back.
+
+428
+00:29:47,578 --> 00:29:48,578
+Free!
+
+429
+00:29:50,124 --> 00:29:51,625
+Free at last!
+
+430
+00:29:56,963 --> 00:29:58,882
+Mad eh, Lanyon? Eh, Carew?
+
+431
+00:29:58,966 --> 00:30:02,302
+You hypocrites.
+Deniers of life.
+
+432
+00:30:02,594 --> 00:30:07,223
+If you could see me now,
+what would you think, hm?
+
+433
+00:30:44,093 --> 00:30:45,636
+Who is there? Who is there?
+
+434
+00:30:46,219 --> 00:30:47,219
+Who's there?
+
+435
+00:30:54,395 --> 00:30:55,395
+Dr. Jekyll?
+
+436
+00:30:55,812 --> 00:30:57,147
+Dr. Jekyll, sir?
+
+437
+00:30:58,357 --> 00:30:59,357
+Is that you?
+
+438
+00:31:01,194 --> 00:31:02,277
+Do you hear me, sir?
+
+439
+00:31:04,237 --> 00:31:07,199
+Please let me in, sir. Let me in!
+
+440
+00:31:17,834 --> 00:31:19,753
+I beg your pardon, sir.
+
+441
+00:31:20,003 --> 00:31:22,255
+I thought I heard a strange voice.
+
+442
+00:31:22,464 --> 00:31:24,039
+That's quite all right, Poole.
+There was someone here.
+
+443
+00:31:24,049 --> 00:31:25,049
+A friend of mine.
+
+444
+00:31:25,341 --> 00:31:28,302
+His name is Hyde. Mr. Hyde.
+
+445
+00:31:28,844 --> 00:31:30,128
+He's just gone out the back door.
+
+446
+00:31:30,138 --> 00:31:31,138
+Yeah.
+
+447
+00:32:00,960 --> 00:32:02,086
+Marry me now, my darling.
+
+448
+00:32:02,878 --> 00:32:04,505
+You don't know how much I need you.
+
+449
+00:32:05,297 --> 00:32:08,634
+I want to with all my heart, but Father...
+
+450
+00:32:08,717 --> 00:32:10,197
+I'll speak to him. I'll convince him.
+
+451
+00:32:10,219 --> 00:32:11,303
+No, no. Let me talk to him.
+
+452
+00:32:12,471 --> 00:32:14,347
+I'll try to change his mind
+while we're away.
+
+453
+00:32:14,682 --> 00:32:15,808
+- Away?
+- Yes.
+
+454
+00:32:16,684 --> 00:32:18,204
+Oh, darling, I've dreaded telling you,
+
+455
+00:32:19,145 --> 00:32:20,812
+but Father's taking me to Bath tomorrow.
+
+456
+00:32:21,730 --> 00:32:23,398
+He has no right to take you away from me.
+
+457
+00:32:24,190 --> 00:32:25,359
+Why must we put up with this?
+
+458
+00:32:27,360 --> 00:32:28,360
+You want to marry me?
+
+459
+00:32:29,071 --> 00:32:29,946
+With all my heart.
+
+460
+00:32:30,029 --> 00:32:31,309
+We'll marry without his consent.
+
+461
+00:32:31,531 --> 00:32:32,700
+Say you will, my darling.
+
+462
+00:32:32,783 --> 00:32:34,242
+We'll go to Paris for our honeymoon.
+
+463
+00:32:34,784 --> 00:32:36,452
+We'll be so gloriously happy
+
+464
+00:32:36,953 --> 00:32:38,830
+that even the French will be jealous of us.
+
+465
+00:32:39,415 --> 00:32:40,874
+I'm so thrilled and tempted,
+
+466
+00:32:41,749 --> 00:32:43,116
+but I don't want to hurt my father.
+
+467
+00:32:43,126 --> 00:32:44,646
+It's only a little hurt to his vanity.
+
+468
+00:32:45,587 --> 00:32:47,881
+You'll do me a greater hurt if you refuse.
+
+469
+00:32:48,006 --> 00:32:49,966
+Do be patient just a little while.
+
+470
+00:32:51,134 --> 00:32:52,894
+I'm sure I can persuade him
+while we're gone.
+
+471
+00:32:53,303 --> 00:32:55,722
+- But, Muriel...
+- Darling, don't you love me enough...
+
+472
+00:32:56,639 --> 00:32:57,639
+to wait a little while?
+
+473
+00:32:59,308 --> 00:33:00,308
+Of course.
+
+474
+00:33:01,644 --> 00:33:03,044
+Of course, I love you enough, dear.
+
+475
+00:33:05,523 --> 00:33:06,523
+I'll wait.
+
+476
+00:33:09,902 --> 00:33:10,904
+I'll wait.
+
+477
+00:33:17,284 --> 00:33:18,286
+Wait.
+
+478
+00:33:20,412 --> 00:33:21,414
+Wait.
+
+479
+00:33:37,679 --> 00:33:38,679
+Come in.
+
+480
+00:33:44,728 --> 00:33:46,688
+A letter from Bath, sir.
+
+481
+00:33:59,242 --> 00:34:00,962
+Miss Muriel won't be home
+for another month.
+
+482
+00:34:02,955 --> 00:34:05,581
+- Can't even go to see her.
+- I'm sorry to hear it, sir.
+
+483
+00:34:06,667 --> 00:34:07,667
+Another month.
+
+484
+00:34:07,708 --> 00:34:09,043
+I beg your pardon, sir,
+
+485
+00:34:09,126 --> 00:34:12,338
+but may I suggest that
+you ought to amuse yourself.
+
+486
+00:34:13,214 --> 00:34:15,800
+Amuse myself?
+Now, what do you suggest, Poole?
+
+487
+00:34:15,883 --> 00:34:17,426
+Well, you ought to go out, sir.
+
+488
+00:34:17,969 --> 00:34:21,347
+London offers many amusements
+for a gentleman like you, sir.
+
+489
+00:34:21,847 --> 00:34:24,487
+Yes, but a gentleman like me
+daren't take advantage of them, Poole.
+
+490
+00:34:24,767 --> 00:34:27,728
+Gentlemen like me have to be
+very careful of what they do and say.
+
+491
+00:34:28,771 --> 00:34:30,356
+- That's all.
+- Yes, sir.
+
+492
+00:38:02,354 --> 00:38:03,772
+Here! Here!
+
+493
+00:38:03,856 --> 00:38:05,816
+What are you after down there?
+
+494
+00:38:06,358 --> 00:38:10,529
+Ah! I was calling on the young lady
+who occupies the little nest.
+
+495
+00:38:10,613 --> 00:38:12,239
+- If it's Ivy Pearson you mean...
+- Yeah.
+
+496
+00:38:12,323 --> 00:38:13,908
+She ain't in.
+
+497
+00:38:14,910 --> 00:38:16,744
+Do you know where I can find her?
+
+498
+00:38:17,203 --> 00:38:20,748
+If I was wanting her,
+I'd try the Variety Music Hall.
+
+499
+00:38:20,831 --> 00:38:22,625
+Oh! Thank you.
+
+500
+00:38:22,708 --> 00:38:24,335
+I thank you.
+
+501
+00:38:24,418 --> 00:38:26,420
+You get out! What do you take me for?
+
+502
+00:38:26,504 --> 00:38:29,757
+Get out!
+
+503
+00:38:51,277 --> 00:38:53,489
+- Stay out of here.
+- I didn't do nothing, mister.
+
+504
+00:39:28,690 --> 00:39:30,941
+A bottle of champagne
+and be quick about it.
+
+505
+00:39:31,943 --> 00:39:33,069
+What are you staring at?
+
+506
+00:39:33,485 --> 00:39:34,485
+Nothing, sir.
+
+507
+00:40:16,819 --> 00:40:18,059
+Well, what are you waiting for?
+
+508
+00:40:18,946 --> 00:40:20,949
+A tip, eh? Get out!
+
+509
+00:40:22,283 --> 00:40:23,283
+Blighter.
+
+510
+00:40:28,248 --> 00:40:30,917
+- Sorry, sir. I'm sorry.
+- You swine!
+
+511
+00:40:33,711 --> 00:40:34,838
+He's a rum'un.
+
+512
+00:40:40,718 --> 00:40:41,718
+Let's have a drink.
+
+513
+00:41:01,113 --> 00:41:04,158
+Champagne Ivy is my name
+
+514
+00:41:04,241 --> 00:41:06,952
+Champagne Ivy is my name
+
+515
+00:41:07,036 --> 00:41:10,414
+Good for any game at night, my boy
+
+516
+00:41:10,498 --> 00:41:13,292
+You come and join me in a spree
+
+517
+00:41:13,376 --> 00:41:14,376
+I will.
+
+518
+00:41:17,088 --> 00:41:19,673
+You're a bit of something to look at
+and listen to, dearie.
+
+519
+00:41:19,756 --> 00:41:21,800
+Not half bad, so they say.
+
+520
+00:41:22,050 --> 00:41:24,052
+You ain't conceited, are you?
+
+521
+00:41:24,219 --> 00:41:25,679
+Well, I has me points.
+
+522
+00:41:25,762 --> 00:41:28,306
+Hey, Charlie!
+
+523
+00:41:28,390 --> 00:41:30,684
+Blimey, there's Irv.
+I'll be back in half a mo.
+
+524
+00:41:31,851 --> 00:41:32,852
+Hey. Hey, you. Hey.
+
+525
+00:41:36,272 --> 00:41:39,317
+Tell that wench in black to come over
+and have a bottle of wine with me.
+
+526
+00:41:39,401 --> 00:41:40,651
+- Yes, sir.
+- That's right.
+
+527
+00:41:46,491 --> 00:41:48,660
+The gent in the box
+wants you to have wine with him.
+
+528
+00:41:48,743 --> 00:41:49,911
+Oh, he does, does he?
+
+529
+00:41:50,452 --> 00:41:51,371
+What of it?
+
+530
+00:41:51,454 --> 00:41:53,154
+Well, you'd better come
+if you know what's good for you.
+
+531
+00:41:53,164 --> 00:41:55,041
+He ain't one to be trifled with, he ain't.
+
+532
+00:41:55,125 --> 00:41:57,501
+Strike me pink. You interest me.
+
+533
+00:41:58,586 --> 00:42:00,003
+I'll take a chance.
+
+534
+00:42:02,132 --> 00:42:04,007
+- Where is he?
+- I'll take you to him.
+
+535
+00:42:15,770 --> 00:42:19,064
+This is indeed a great honor.
+I noticed you as you came in, my dear.
+
+536
+00:42:19,523 --> 00:42:20,858
+"There," I said to myself,
+
+537
+00:42:20,941 --> 00:42:23,694
+"is too pretty a girl
+to waste on such a companion."
+
+538
+00:42:23,944 --> 00:42:26,655
+Ah, but you are pretty.
+
+539
+00:42:27,072 --> 00:42:29,700
+And what a figure, my dear.
+
+540
+00:42:29,783 --> 00:42:31,618
+What a figure.
+
+541
+00:42:32,660 --> 00:42:33,787
+A glass of champagne.
+
+542
+00:42:34,496 --> 00:42:36,497
+To you. To you, my dear.
+
+543
+00:42:37,082 --> 00:42:38,751
+To your beauty, mm?
+
+544
+00:42:46,090 --> 00:42:47,801
+- I must be going now.
+- Going?
+
+545
+00:42:48,010 --> 00:42:49,927
+- Where?
+- Uh, home.
+
+546
+00:42:50,178 --> 00:42:51,346
+You call that home?
+
+547
+00:42:51,430 --> 00:42:54,224
+That pigsty of yours in Baffin's Court?
+
+548
+00:42:54,349 --> 00:42:55,767
+Sty, is it? You come off that.
+
+549
+00:42:55,850 --> 00:42:58,437
+Oh, I like you
+when your temper's up, my dear.
+
+550
+00:42:58,978 --> 00:43:00,396
+How do you know where I live?
+
+551
+00:43:01,856 --> 00:43:03,691
+I saw you on the street and followed you.
+
+552
+00:43:03,983 --> 00:43:06,194
+Ah, my pretty,
+you deserve better than that.
+
+553
+00:43:06,444 --> 00:43:08,237
+You ought to live in a place worthy of you.
+
+554
+00:43:08,321 --> 00:43:12,575
+Buckingham Palace, I suppose.
+
+555
+00:43:12,658 --> 00:43:14,202
+That's the spirit I like.
+
+556
+00:43:14,285 --> 00:43:16,662
+Sit down, my dear.
+Sit down just for a moment, eh?
+
+557
+00:43:16,829 --> 00:43:20,416
+You should have a place that would
+set off that fine body of yours,
+
+558
+00:43:20,792 --> 00:43:23,211
+yellow hair and pale face.
+
+559
+00:43:23,795 --> 00:43:26,506
+Clothes to match, too, my dear.
+Silk, eh?
+
+560
+00:43:26,798 --> 00:43:29,300
+And a bracelet or two, eh?
+
+561
+00:43:29,717 --> 00:43:31,593
+Champagne to drink, eh?
+
+562
+00:43:32,010 --> 00:43:33,095
+How would you like that?
+
+563
+00:43:33,763 --> 00:43:35,138
+And how am I to get it?
+
+564
+00:43:36,349 --> 00:43:41,019
+How do you think you're going to get it,
+my bright little bird, hm?
+
+565
+00:43:44,231 --> 00:43:47,734
+I am no gentleman, no, but I have money.
+
+566
+00:43:49,361 --> 00:43:51,321
+Perhaps my looks don't please you.
+
+567
+00:43:51,446 --> 00:43:53,031
+Well, you ain't no beauty.
+
+568
+00:43:53,114 --> 00:43:55,534
+Quite right. I am no beauty.
+
+569
+00:43:56,535 --> 00:43:58,537
+Perhaps you prefer a gentleman, eh?
+
+570
+00:43:58,954 --> 00:44:02,791
+One of those fine-mannered, virtuous,
+and honorable gentlemen.
+
+571
+00:44:03,791 --> 00:44:05,669
+One of those canting hypocrites
+
+572
+00:44:05,752 --> 00:44:08,797
+who like your legs,
+but talk about your garter.
+
+573
+00:44:08,880 --> 00:44:10,381
+What are you talking about?
+
+574
+00:44:11,048 --> 00:44:13,009
+Oh, my poor little innocent.
+
+575
+00:44:13,425 --> 00:44:16,263
+It doesn't know what I'm talking about, eh?
+
+576
+00:44:17,179 --> 00:44:19,890
+Well, well, well,
+it's afraid of me, isn't it?
+
+577
+00:44:20,015 --> 00:44:22,352
+No! I ain't afraid of you.
+
+578
+00:44:22,435 --> 00:44:24,395
+- Aren't you? Good.
+- Hey, you.
+
+579
+00:44:25,272 --> 00:44:27,352
+Trying to steal my girl, are you,
+you dirty blighter?
+
+580
+00:44:27,398 --> 00:44:28,640
+Come back, you.
+I'll fix you for this, you wench.
+
+581
+00:44:28,650 --> 00:44:29,942
+Sit down! Sit down.
+
+582
+00:44:30,025 --> 00:44:31,058
+I'll knock your blooming head off!
+
+583
+00:44:31,068 --> 00:44:33,112
+Get out of here, you...
+
+584
+00:44:42,288 --> 00:44:43,664
+You couldn't have done it.
+
+585
+00:44:43,747 --> 00:44:46,166
+Couldn't I, though? Why not?
+
+586
+00:44:46,500 --> 00:44:48,836
+This place was just made for it.
+
+587
+00:44:49,712 --> 00:44:51,272
+- Oh, now.
+- Here, stop that. Let me go.
+
+588
+00:44:51,338 --> 00:44:54,717
+- Oh, no. You're not going anywhere.
+- Let me go. I'm going.
+
+589
+00:44:54,800 --> 00:44:57,177
+I'm going home!
+
+590
+00:44:57,261 --> 00:44:58,970
+Sit down.
+
+591
+00:45:00,639 --> 00:45:01,932
+Forgive me, my dear.
+
+592
+00:45:02,807 --> 00:45:04,935
+You see, I hurt you because I love you.
+
+593
+00:45:05,685 --> 00:45:06,936
+I want you.
+
+594
+00:45:08,063 --> 00:45:11,275
+And what I want, I get.
+
+595
+00:45:11,859 --> 00:45:13,902
+I grant you, I am no beauty,
+
+596
+00:45:14,528 --> 00:45:16,613
+but under this exterior...
+
+597
+00:45:17,865 --> 00:45:21,702
+you'll find a very flower of man.
+
+598
+00:45:22,285 --> 00:45:23,285
+Look at me.
+
+599
+00:45:24,454 --> 00:45:26,831
+Do you suppose
+I'd let anybody stand in my way?
+
+600
+00:45:28,208 --> 00:45:31,794
+I love you. I love you.
+Do you understand?
+
+601
+00:45:32,837 --> 00:45:34,589
+You'll come with me, eh?
+
+602
+00:45:37,634 --> 00:45:39,761
+You'll come with me.
+
+603
+00:45:52,147 --> 00:45:53,149
+Come in, sir.
+
+604
+00:45:55,484 --> 00:45:57,070
+I presume your master is out.
+
+605
+00:45:57,487 --> 00:45:58,946
+Yes, sir. So he is, sir.
+
+606
+00:45:59,029 --> 00:46:00,365
+He's always out when I call.
+
+607
+00:46:01,448 --> 00:46:03,568
+Tell your master
+I've had a letter from General Carew.
+
+608
+00:46:04,201 --> 00:46:06,161
+He tells me that
+Dr. Jekyll has not replied to
+
+609
+00:46:06,244 --> 00:46:07,404
+any of Miss Muriel's letters.
+
+610
+00:46:07,746 --> 00:46:09,706
+- She's worried about him.
+- I'll tell him, sir.
+
+611
+00:46:10,666 --> 00:46:12,947
+Anyway, I'm relieved to know
+he's not confined to his bed.
+
+612
+00:46:12,960 --> 00:46:14,461
+Begging your pardon, sir.
+
+613
+00:46:14,544 --> 00:46:17,048
+It's my opinion that my master isn't well.
+
+614
+00:46:17,131 --> 00:46:19,216
+He hardly sees his patients, sir.
+
+615
+00:46:19,299 --> 00:46:22,219
+I haven't seen him myself
+for days at a time.
+
+616
+00:46:22,302 --> 00:46:25,597
+He often comes and goes
+by the back door of the laboratory, sir.
+
+617
+00:46:26,181 --> 00:46:28,600
+I must be going, Poole.
+Good day.
+
+618
+00:46:38,026 --> 00:46:39,026
+Who's there?
+
+619
+00:46:39,194 --> 00:46:40,987
+It's me, dearie, your landlady.
+
+620
+00:46:41,070 --> 00:46:42,322
+Come in, Mrs. Hawkins.
+
+621
+00:46:44,490 --> 00:46:46,450
+Oh, how are you, dearie?
+
+622
+00:46:48,035 --> 00:46:49,287
+You don't have to answer.
+
+623
+00:46:49,371 --> 00:46:52,124
+I can see for myself
+you ain't as fit as you ought to be,
+
+624
+00:46:52,207 --> 00:46:53,290
+and no wonder.
+
+625
+00:46:54,000 --> 00:46:56,044
+Oh, here, dearie.
+I brought you the newspaper.
+
+626
+00:46:56,919 --> 00:46:57,919
+Thank you, Mrs. Hawkins.
+
+627
+00:46:58,254 --> 00:46:59,922
+Oh, you're having a cup of tea, I see.
+
+628
+00:47:00,339 --> 00:47:02,718
+If you don't mind, dearie,
+I'll sit with you a minute.
+
+629
+00:47:02,800 --> 00:47:04,427
+I'm that done in.
+
+630
+00:47:05,261 --> 00:47:07,972
+Oh, will you have
+a cup of tea, Mrs. Hawkins?
+
+631
+00:47:08,055 --> 00:47:10,433
+Thank you, dearie. I don't mind if I do.
+
+632
+00:47:10,516 --> 00:47:13,310
+After all, a neighbor's a neighbor, says I.
+
+633
+00:47:14,061 --> 00:47:15,979
+Here's a bit of a surprise for you.
+
+634
+00:47:16,439 --> 00:47:19,357
+He's a lodger of mine,
+and a very likely lad he is, too.
+
+635
+00:47:19,441 --> 00:47:20,568
+His name's Arvis,
+
+636
+00:47:20,901 --> 00:47:22,111
+and he says to me, says he,
+
+637
+00:47:22,444 --> 00:47:25,114
+"Who's the pretty lass what has the parlor?
+
+638
+00:47:25,197 --> 00:47:28,659
+I wonder if she'd be inclined to
+drop in at the music hall with me
+
+639
+00:47:28,743 --> 00:47:30,160
+one of these fine nights?
+
+640
+00:47:30,578 --> 00:47:32,078
+You ask her," says he.
+
+641
+00:47:32,495 --> 00:47:33,538
+Now, my advice, dearie...
+
+642
+00:47:33,621 --> 00:47:35,572
+No, no, no.
+I don't want to hear any more about it.
+
+643
+00:47:35,582 --> 00:47:39,002
+Oh. Afraid of
+what Hyde will do to you, ain't you?
+
+644
+00:47:39,085 --> 00:47:40,128
+No, I ain't afraid.
+
+645
+00:47:41,005 --> 00:47:44,967
+If that blighter was my man,
+he wouldn't dare to lay a hand on me.
+
+646
+00:47:45,425 --> 00:47:47,385
+Not if he knowed what was good for him.
+
+647
+00:47:47,469 --> 00:47:49,554
+He's a brute. That's what he is.
+
+648
+00:47:49,637 --> 00:47:51,432
+And my advice, dearie...
+
+649
+00:48:08,907 --> 00:48:11,283
+- What do you want?
+- I've come for the rent, sir.
+
+650
+00:48:11,825 --> 00:48:13,328
+You'll get it when it's due.
+
+651
+00:48:13,787 --> 00:48:14,787
+Very good, sir.
+
+652
+00:48:22,669 --> 00:48:24,338
+What did that filthy harridan want?
+
+653
+00:48:25,214 --> 00:48:27,925
+She... brought me the paper.
+
+654
+00:48:28,217 --> 00:48:30,178
+- What else?
+- Nothing.
+
+655
+00:48:30,803 --> 00:48:33,222
+You aren't lying to me,
+are you, my little bird?
+
+656
+00:48:33,306 --> 00:48:35,015
+No, no, no, I ain't lying to you.
+
+657
+00:48:35,099 --> 00:48:39,144
+If I ever catch you lying,
+these are a trifle to what you'll get.
+
+658
+00:48:39,436 --> 00:48:40,436
+A trifle!
+
+659
+00:49:15,305 --> 00:49:16,305
+Come here.
+
+660
+00:49:22,271 --> 00:49:23,271
+Sit down...
+
+661
+00:49:24,355 --> 00:49:26,399
+so that I can look at you, my sweetling.
+
+662
+00:49:31,863 --> 00:49:32,863
+Say it aloud.
+
+663
+00:49:34,031 --> 00:49:35,031
+What do you mean?
+
+664
+00:49:36,993 --> 00:49:39,619
+Don't you think
+I can read your thoughts, you trull?
+
+665
+00:49:40,496 --> 00:49:41,539
+You hate me, don't you?
+
+666
+00:49:42,081 --> 00:49:43,374
+I'm not good enough for you!
+
+667
+00:49:44,000 --> 00:49:46,752
+I'm not a nice, kind gentleman like that...
+
+668
+00:49:47,712 --> 00:49:52,424
+Nice, kind gentlemen
+who are so good to look at and so...
+
+669
+00:49:53,550 --> 00:49:55,178
+Cowards! Weaklings!
+
+670
+00:49:58,972 --> 00:50:01,184
+Tell me you hate me. Please, my lamb.
+
+671
+00:50:01,267 --> 00:50:02,799
+Please, my dear, sweet, pretty little bird,
+
+672
+00:50:02,809 --> 00:50:03,894
+tell me that you hate me.
+
+673
+00:50:04,353 --> 00:50:05,645
+I don't know what you mean.
+
+674
+00:50:06,605 --> 00:50:07,899
+Don't you, my lamb?
+
+675
+00:50:08,815 --> 00:50:10,859
+Then you don't hate me, eh?
+
+676
+00:50:11,902 --> 00:50:13,403
+No, sir.
+
+677
+00:50:13,987 --> 00:50:19,159
+If you don't hate me, you must love me.
+Isn't that so, my little one?
+
+678
+00:50:19,826 --> 00:50:21,119
+- Isn't it?
+- Yes, sir.
+
+679
+00:50:21,828 --> 00:50:24,997
+Ah! How you must love me.
+
+680
+00:50:25,832 --> 00:50:26,875
+I want to hear you say it.
+
+681
+00:50:27,417 --> 00:50:29,502
+Say it. Come, my wench. Say it! Say it!
+
+682
+00:50:29,586 --> 00:50:30,837
+- Say it!
+- Yes, sir!
+
+683
+00:50:36,384 --> 00:50:38,719
+I have got bad news for you, my dear.
+
+684
+00:50:40,013 --> 00:50:41,055
+Very bad.
+
+685
+00:50:42,348 --> 00:50:43,348
+I, uh...
+
+686
+00:50:44,767 --> 00:50:47,229
+I'm going away for a few days.
+
+687
+00:50:51,023 --> 00:50:54,109
+And upon my word,
+if you don't seem pleased.
+
+688
+00:50:55,444 --> 00:50:56,821
+You are pleased, aren't you?
+
+689
+00:50:56,905 --> 00:50:59,490
+- No, sir, I ain't pleased.
+- You are pleased!
+
+690
+00:51:01,867 --> 00:51:04,286
+But pleasure is brief
+in this world, my sweet.
+
+691
+00:51:05,371 --> 00:51:08,415
+And yours is most uncertain, because...
+
+692
+00:51:09,875 --> 00:51:13,420
+you don't know when I'll be back, do you?
+
+693
+00:51:14,380 --> 00:51:16,632
+- No, sir.
+- "No, sir. No, sir."
+
+694
+00:51:17,800 --> 00:51:19,551
+Remember, you belong to me, do you hear?
+
+695
+00:51:20,051 --> 00:51:21,345
+You belong to me.
+
+696
+00:51:22,429 --> 00:51:25,099
+If you do one thing
+that I don't approve of while I'm gone,
+
+697
+00:51:25,891 --> 00:51:27,642
+the least little thing, mind you...
+
+698
+00:51:28,811 --> 00:51:32,231
+I'll show you what horror means.
+
+699
+00:51:41,823 --> 00:51:43,491
+Are you going now?
+
+700
+00:51:45,703 --> 00:51:47,203
+- Tonight?
+- Now?
+
+701
+00:51:48,997 --> 00:51:51,249
+Why, my dear, I'm surprised at you.
+
+702
+00:51:52,834 --> 00:51:55,211
+What a leave-taking that would be.
+
+703
+00:51:56,671 --> 00:51:58,631
+You wouldn't have me go tonight, would you?
+
+704
+00:51:59,841 --> 00:52:01,509
+Would you let me go tonight?
+
+705
+00:52:02,343 --> 00:52:03,343
+Would you?
+
+706
+00:52:05,430 --> 00:52:06,430
+No, sir.
+
+707
+00:52:07,056 --> 00:52:08,057
+Of course not.
+
+708
+00:52:08,974 --> 00:52:11,811
+Quite unworthy of our great love. Hmm?
+
+709
+00:52:14,689 --> 00:52:17,859
+No, my dear, I'm not going now.
+
+710
+00:52:19,026 --> 00:52:21,987
+I'm going to spend
+the evening here with you.
+
+711
+00:52:22,904 --> 00:52:25,449
+Just as you want. Say, "Just as I want."
+
+712
+00:52:25,991 --> 00:52:27,284
+Say "Just as I want."
+
+713
+00:52:27,367 --> 00:52:28,660
+Just as I want!
+
+714
+00:52:28,744 --> 00:52:30,997
+That's right, my little bird.
+
+715
+00:52:32,080 --> 00:52:35,459
+The last evening
+is always the sweetest, you know.
+
+716
+00:52:36,793 --> 00:52:39,421
+And what a farewell this one will be.
+
+717
+00:52:40,172 --> 00:52:42,049
+What a farewell.
+
+718
+00:52:43,008 --> 00:52:45,888
+I don't know whether I shall be able to
+tear myself away from you at all.
+
+719
+00:52:46,261 --> 00:52:48,262
+Perhaps I shall go
+only as far as the door...
+
+720
+00:52:49,181 --> 00:52:51,975
+and the sight of your tears
+will bring me back.
+
+721
+00:52:53,101 --> 00:52:54,301
+Does that please you, my dear?
+
+722
+00:52:55,896 --> 00:52:56,896
+Yes, sir.
+
+723
+00:52:57,439 --> 00:52:59,024
+Why don't you show it, then?
+
+724
+00:52:59,649 --> 00:53:03,278
+Why don't you dance? Why don't you sing?
+
+725
+00:53:04,154 --> 00:53:05,363
+Sing, my dear!
+
+726
+00:53:05,989 --> 00:53:07,573
+Sing, my little pigeon!
+
+727
+00:53:08,157 --> 00:53:11,077
+Get up and sing! You hear?
+
+728
+00:53:11,702 --> 00:53:12,702
+Sing!
+
+729
+00:53:13,413 --> 00:53:16,290
+Champagne Ivy is my name
+
+730
+00:53:16,792 --> 00:53:19,460
+Champagne Ivy is my name
+
+731
+00:53:20,128 --> 00:53:23,839
+Good for any game at night, my boy
+
+732
+00:53:24,298 --> 00:53:25,341
+Good for...
+
+733
+00:53:33,474 --> 00:53:36,143
+Look, my darling, how tight your garter is.
+
+734
+00:53:36,602 --> 00:53:38,187
+You mustn't wear it so tight.
+
+735
+00:53:38,270 --> 00:53:41,315
+It will bruise your pretty, tender flesh.
+
+736
+00:54:12,095 --> 00:54:13,763
+Your tea, sir.
+
+737
+00:54:14,681 --> 00:54:16,766
+Thank you, Poole.
+
+738
+00:54:18,560 --> 00:54:19,936
+I shall be going out presently.
+
+739
+00:54:21,479 --> 00:54:23,096
+Miss Muriel is returning to London today.
+
+740
+00:54:23,106 --> 00:54:25,191
+Oh, very good, sir.
+
+741
+00:54:28,736 --> 00:54:29,736
+See this key, Poole?
+
+742
+00:54:30,572 --> 00:54:31,572
+Yes, sir.
+
+743
+00:54:32,115 --> 00:54:35,492
+It's the key to
+the back door of the laboratory, sir.
+
+744
+00:54:40,540 --> 00:54:41,820
+I'll have no further use for it.
+
+745
+00:54:52,801 --> 00:54:56,346
+From now on, I'll use only the front door.
+
+746
+00:54:57,055 --> 00:54:58,265
+Yes, sir.
+
+747
+00:55:14,072 --> 00:55:17,034
+Deliver this to Miss Ivy Pearson,
+Diadem Court, Soho.
+
+748
+00:55:18,075 --> 00:55:19,286
+Any message, sir?
+
+749
+00:55:19,369 --> 00:55:21,787
+None. Deliver it and come away.
+
+750
+00:55:23,207 --> 00:55:25,208
+Hyde will kill you one day.
+
+751
+00:55:25,291 --> 00:55:27,252
+I wish he would kill me.
+I wish he would.
+
+752
+00:55:27,336 --> 00:55:28,544
+Why don't you run away?
+
+753
+00:55:29,128 --> 00:55:31,672
+Where to? He'd find me wherever I was.
+
+754
+00:55:31,756 --> 00:55:35,009
+Then why don't you go to the police?
+They'd fix this Hyde man.
+
+755
+00:55:35,092 --> 00:55:36,177
+No no, I'm afraid.
+
+756
+00:55:37,428 --> 00:55:39,347
+There ain't nobody to help me. Nobody.
+
+757
+00:55:40,390 --> 00:55:42,225
+Who cares what becomes of the likes of me?
+
+758
+00:55:46,312 --> 00:55:47,312
+Come in.
+
+759
+00:55:51,067 --> 00:55:52,818
+Miss Ivy Pearson?
+
+760
+00:55:54,403 --> 00:55:55,403
+That's me.
+
+761
+00:55:55,488 --> 00:55:58,115
+This is from my master,
+Dr. Jekyll, miss.
+
+762
+00:55:58,199 --> 00:56:00,575
+Not Dr. Henry M. Jekyll?
+
+763
+00:56:00,659 --> 00:56:04,455
+Quite so. He said there is no answer.
+Good day, miss.
+
+764
+00:56:09,460 --> 00:56:11,127
+I don't know Dr. Jekyll.
+
+765
+00:56:14,715 --> 00:56:15,800
+Fifty pounds!
+
+766
+00:56:16,883 --> 00:56:19,761
+Well, he knows you, dearie.
+
+767
+00:56:20,595 --> 00:56:22,223
+Strike me pink!
+
+768
+00:56:22,557 --> 00:56:25,268
+Fifty pounds
+from the celebrated Dr. Jekyll.
+
+769
+00:56:25,351 --> 00:56:26,851
+He's a grand gentleman.
+
+770
+00:56:26,935 --> 00:56:28,813
+Always helping them what needs help.
+
+771
+00:56:28,896 --> 00:56:31,731
+Now, dearie, he sends you fifty pounds.
+
+772
+00:56:31,815 --> 00:56:33,400
+Shows he takes an interest in you.
+
+773
+00:56:33,567 --> 00:56:36,403
+Now, why don't you go
+and thank the gentleman proper?
+
+774
+00:56:36,695 --> 00:56:39,281
+Then you could tell him all about
+this here Hyde business.
+
+775
+00:56:39,739 --> 00:56:41,783
+He'll tell that blighter what's what.
+
+776
+00:56:41,866 --> 00:56:43,201
+You'll see if he don't.
+
+777
+00:56:43,285 --> 00:56:44,452
+You made me suffer so.
+
+778
+00:56:45,161 --> 00:56:46,705
+Now you tell me nothing.
+
+779
+00:56:46,788 --> 00:56:48,540
+I tell you no man ever needed another,
+
+780
+00:56:48,832 --> 00:56:51,710
+or loved another as I need and love you.
+
+781
+00:56:52,418 --> 00:56:53,498
+I don't know what to say...
+
+782
+00:56:54,421 --> 00:56:57,007
+but if you'd been ill
+that would have been different.
+
+783
+00:56:57,090 --> 00:56:58,383
+I was ill, my darling.
+
+784
+00:56:59,008 --> 00:57:01,428
+Then why didn't you let me know?
+I should have come at once.
+
+785
+00:57:01,511 --> 00:57:03,805
+I wasn't ill in body. I was ill in soul.
+
+786
+00:57:04,598 --> 00:57:07,809
+The sufferings of the spirit
+are so difficult to communicate.
+
+787
+00:57:08,268 --> 00:57:09,518
+Even to those who love you.
+
+788
+00:57:09,852 --> 00:57:11,932
+Do you think
+there's anything that has to do with you
+
+789
+00:57:12,271 --> 00:57:13,522
+that I wouldn't understand?
+
+790
+00:57:14,232 --> 00:57:17,610
+I know that you're gentle
+and understanding, but...
+
+791
+00:57:20,321 --> 00:57:21,655
+I can't explain to you.
+
+792
+00:57:23,907 --> 00:57:26,785
+I have played with dangerous knowledge.
+
+793
+00:57:28,621 --> 00:57:32,458
+I've walked a strange and terrible road.
+
+794
+00:57:34,084 --> 00:57:35,669
+Help me to find my way back.
+
+795
+00:57:35,753 --> 00:57:37,171
+Oh, my sweet.
+
+796
+00:57:38,212 --> 00:57:40,049
+When you're all mine to love and keep,
+
+797
+00:57:40,966 --> 00:57:44,385
+I shall be patient as the earth with you.
+
+798
+00:57:45,094 --> 00:57:48,431
+Then let's not wait any longer.
+Let us be married at once.
+
+799
+00:57:48,806 --> 00:57:50,142
+I want to with all my heart.
+
+800
+00:57:50,684 --> 00:57:52,518
+Take me. Take me soon.
+
+801
+00:57:52,936 --> 00:57:54,479
+I love you, and I want to help you.
+
+802
+00:57:55,563 --> 00:57:56,565
+Muriel?
+
+803
+00:57:59,985 --> 00:58:00,985
+Muriel.
+
+804
+00:58:03,489 --> 00:58:05,448
+I didn't expect to find you here, sir.
+
+805
+00:58:05,531 --> 00:58:08,117
+I've just made my profoundest apologies
+to Muriel.
+
+806
+00:58:08,242 --> 00:58:11,204
+- Oh, and what about me?
+- Permit me to make them to you, sir,
+
+807
+00:58:11,704 --> 00:58:13,498
+and to trust that you will be indulgent.
+
+808
+00:58:14,624 --> 00:58:16,459
+You haven't explained anything yet, sir.
+
+809
+00:58:17,335 --> 00:58:20,129
+I... I was not quite myself, sir.
+
+810
+00:58:20,797 --> 00:58:23,132
+- I was ill.
+- Ill? Ill.
+
+811
+00:58:23,840 --> 00:58:26,718
+Well, in that case, of course,
+we'll say no more about it.
+
+812
+00:58:26,802 --> 00:58:29,681
+Thank you, sir. May I take
+further advantage of your indulgence?
+
+813
+00:58:29,931 --> 00:58:31,057
+Yes. What is it?
+
+814
+00:58:31,849 --> 00:58:33,975
+Your consent to our early marriage.
+
+815
+00:58:34,184 --> 00:58:36,728
+Oh, please, Father, do say yes.
+Harry needs me.
+
+816
+00:58:36,895 --> 00:58:39,399
+- I've already told you...
+- But we're too unhappy apart.
+
+817
+00:58:39,856 --> 00:58:42,735
+Oh, please, Father. This is
+the most important request of my life.
+
+818
+00:58:42,985 --> 00:58:45,113
+I see no reason to change my mind.
+
+819
+00:58:45,196 --> 00:58:46,905
+Isn't my happiness reason enough?
+
+820
+00:58:46,988 --> 00:58:49,533
+I assure you, sir,
+you will have no cause to regret it.
+
+821
+00:58:50,033 --> 00:58:51,326
+Well, to be frank, Jekyll,
+
+822
+00:58:51,785 --> 00:58:53,995
+I'm not at all satisfied with your conduct.
+
+823
+00:58:54,621 --> 00:58:55,741
+I don't understand you, sir.
+
+824
+00:58:56,248 --> 00:59:00,877
+I expect a man in your position
+to observe certain traditions.
+
+825
+00:59:01,503 --> 00:59:03,964
+I want to see you more settled down
+
+826
+00:59:04,339 --> 00:59:06,049
+before I entrust my daughter to your care.
+
+827
+00:59:06,466 --> 00:59:08,510
+You're too flighty, too impatient...
+
+828
+00:59:08,593 --> 00:59:11,054
+Believe me, sir,
+these faults will be corrected.
+
+829
+00:59:11,263 --> 00:59:12,722
+I give you my word of honor.
+
+830
+00:59:12,805 --> 00:59:15,808
+Please, Father.
+My whole life is concerned.
+
+831
+00:59:15,891 --> 00:59:17,728
+- Hm. Hm.
+- Please?
+
+832
+00:59:18,270 --> 00:59:20,230
+Well...
+
+833
+00:59:20,897 --> 00:59:23,190
+Well, well, I see you're overriding me.
+
+834
+00:59:24,109 --> 00:59:26,777
+Jekyll, remember you gave me
+your word of honor.
+
+835
+00:59:26,861 --> 00:59:27,861
+Yes, sir.
+
+836
+00:59:28,738 --> 00:59:31,074
+Very well.
+You shall be married next month.
+
+837
+00:59:31,783 --> 00:59:33,200
+Come to dinner tomorrow, eh?
+
+838
+00:59:33,617 --> 00:59:35,657
+And we'll make a formal announcement
+to our friends.
+
+839
+00:59:35,703 --> 00:59:37,789
+Oh, thank you, sir.
+By Jove, you've made me happy!
+
+840
+00:59:37,873 --> 00:59:39,874
+I could sing or dance, or roll a hoop...
+
+841
+00:59:39,957 --> 00:59:42,793
+- Jekyll, no, no, no, no, no.
+- No, I beg your pardon, sir.
+
+842
+00:59:42,918 --> 00:59:44,086
+Until tomorrow, my sweet.
+
+843
+00:59:44,170 --> 00:59:46,756
+Goodb... good... goodbye, sir.
+
+844
+00:59:47,298 --> 00:59:48,883
+Goodbye.
+
+845
+00:59:59,143 --> 01:00:01,603
+Ah, Poole, my dear fellow.
+
+846
+01:00:02,354 --> 01:00:04,064
+I'm a very happy man!
+
+847
+01:00:04,148 --> 01:00:05,900
+I'm happy to hear it.
+
+848
+01:00:05,983 --> 01:00:08,651
+Ah, happy, by Jove! Happy!
+
+849
+01:00:09,153 --> 01:00:12,363
+"Jocund Day Stands Tip Toe
+on the Misty Mountain Tops."
+
+850
+01:00:12,448 --> 01:00:13,448
+Yes, sir.
+
+851
+01:00:14,407 --> 01:00:16,035
+May I take your cape, sir?
+
+852
+01:00:16,118 --> 01:00:18,995
+You may, Poole, you may, my dear fellow.
+
+853
+01:00:19,580 --> 01:00:21,456
+I'm going to be married, Poole.
+Next month.
+
+854
+01:00:21,748 --> 01:00:24,542
+Think of it. In a few weeks,
+she'll be under this very roof,
+
+855
+01:00:24,751 --> 01:00:27,337
+in this very room, as my wife.
+
+856
+01:00:27,796 --> 01:00:30,007
+Think of it, Poole,
+and let me see your face.
+
+857
+01:00:30,090 --> 01:00:34,260
+Yes, sir!
+I beg to congratulate you, sir!
+
+858
+01:00:36,012 --> 01:00:38,890
+"If music be the food of love, play on."
+
+859
+01:00:40,307 --> 01:00:41,309
+Yes.
+
+860
+01:01:05,208 --> 01:01:06,708
+I beg your pardon, sir,
+
+861
+01:01:06,792 --> 01:01:09,837
+but Miss Pearson is waiting for you
+in the consulting room.
+
+862
+01:01:09,920 --> 01:01:10,963
+Miss Pearson?
+
+863
+01:01:11,046 --> 01:01:13,215
+The young woman
+that you sent the envelope to, sir.
+
+864
+01:01:14,967 --> 01:01:18,011
+- What does she want?
+- She wishes to consult you, sir.
+
+865
+01:01:24,560 --> 01:01:27,896
+- Very well. Show her in here.
+- Yes, sir.
+
+866
+01:01:49,333 --> 01:01:51,253
+Why, it's you, sir!
+
+867
+01:01:51,919 --> 01:01:52,919
+So it is.
+
+868
+01:01:53,713 --> 01:01:55,506
+Now who would have thought it?
+
+869
+01:01:56,549 --> 01:02:00,136
+Who would have thought that I'd find
+the celebrated Dr. Jekyll?
+
+870
+01:02:02,722 --> 01:02:05,349
+So it was you who sent me this money?
+
+871
+01:02:06,058 --> 01:02:07,059
+Yes.
+
+872
+01:02:08,394 --> 01:02:11,564
+The minute I laid eyes on you,
+I knew you had a kind heart.
+
+873
+01:02:12,523 --> 01:02:13,858
+But whatever made you do it, sir?
+
+874
+01:02:13,941 --> 01:02:15,341
+Someone told me that you needed it.
+
+875
+01:02:16,611 --> 01:02:17,731
+- Who, sir?
+- Doesn't matter.
+
+876
+01:02:17,778 --> 01:02:19,378
+The important thing is that you have it.
+
+877
+01:02:19,655 --> 01:02:20,655
+And you're welcome to it.
+
+878
+01:02:21,656 --> 01:02:22,825
+I can't take it, sir.
+
+879
+01:02:24,201 --> 01:02:27,163
+- Why not?
+- Why? Why?
+
+880
+01:02:27,705 --> 01:02:29,665
+Here's why! Here's why!
+
+881
+01:02:30,249 --> 01:02:31,249
+Pretty, ain't it?
+
+882
+01:02:31,291 --> 01:02:33,336
+It's a whip, that's what it is. A whip.
+
+883
+01:02:33,461 --> 01:02:35,045
+Horrible. Horrible!
+
+884
+01:02:36,047 --> 01:02:37,672
+I'll give you a lotion to soothe that.
+
+885
+01:02:38,381 --> 01:02:41,092
+Thank you, sir,
+but a lotion won't do the trick, sir.
+
+886
+01:02:41,343 --> 01:02:43,596
+No, sir. It's more than that, sir.
+
+887
+01:02:44,054 --> 01:02:47,058
+I need help, I do.
+I can't stand it anymore.
+
+888
+01:02:47,515 --> 01:02:50,478
+- What is it, my dear?
+- It's Hyde, sir. Hyde.
+
+889
+01:02:51,019 --> 01:02:54,105
+It's him that's done that,
+and more as I can't tell you, sir.
+
+890
+01:02:54,731 --> 01:02:57,026
+He ain't human, he ain't, sir.
+He's a beast.
+
+891
+01:02:57,776 --> 01:02:59,611
+He won't let me go, and I'm afraid...
+
+892
+01:02:59,694 --> 01:03:01,112
+I'm afraid to run away.
+
+893
+01:03:01,988 --> 01:03:03,740
+I've tried to drown myself...
+
+894
+01:03:04,157 --> 01:03:05,992
+but I can't.
+
+895
+01:03:07,577 --> 01:03:08,870
+And if you don't help me...
+
+896
+01:03:09,746 --> 01:03:12,916
+You as has the kindest heart
+in the world, sir...
+
+897
+01:03:13,916 --> 01:03:16,086
+then give me poison, so I can kill myself.
+
+898
+01:03:16,169 --> 01:03:18,620
+Why didn't you seek help before?
+Why didn't you go to the police?
+
+899
+01:03:18,630 --> 01:03:19,631
+I was afraid.
+
+900
+01:03:20,506 --> 01:03:23,092
+You don't know him, sir.
+He ain't a man. He's a devil.
+
+901
+01:03:23,676 --> 01:03:25,436
+He knows
+what you're thinking about, he does.
+
+902
+01:03:25,887 --> 01:03:28,138
+I'm afraid of him.
+I'm afraid of him now!
+
+903
+01:03:28,473 --> 01:03:31,350
+If he knows that I've been here today,
+I don't know what he'll do!
+
+904
+01:03:31,726 --> 01:03:33,644
+It won't be anything human, sir.
+
+905
+01:03:33,727 --> 01:03:35,647
+Oh, save me. Save me!
+
+906
+01:03:35,730 --> 01:03:38,733
+Keep him off me.
+I'll do anything you ask.
+
+907
+01:03:38,817 --> 01:03:40,985
+I'll be your slave!
+
+908
+01:03:41,068 --> 01:03:43,112
+Oh, help me!
+
+909
+01:03:57,251 --> 01:04:00,254
+You won't let me go back to him,
+will you, sir?
+
+910
+01:04:02,131 --> 01:04:03,173
+You're an angel.
+
+911
+01:04:06,300 --> 01:04:08,220
+You're an angel, sir.
+
+912
+01:04:13,976 --> 01:04:15,351
+I'll do anything you like.
+
+913
+01:04:17,312 --> 01:04:18,896
+I ain't as bad as you think.
+
+914
+01:04:20,356 --> 01:04:22,442
+And I ain't a bad looker, either.
+
+915
+01:04:24,611 --> 01:04:27,488
+I'll work for you. I'll slave for you.
+
+916
+01:04:28,239 --> 01:04:29,282
+I'll love you.
+
+917
+01:04:30,908 --> 01:04:34,328
+You... you liked me once, didn't you?
+
+918
+01:04:36,706 --> 01:04:37,706
+Why don't you?
+
+919
+01:04:53,473 --> 01:04:54,473
+I give you my word...
+
+920
+01:04:55,432 --> 01:04:57,091
+that you will never be troubled
+with Hyde again.
+
+921
+01:04:57,101 --> 01:04:59,562
+No, no, sir.
+He'll come back and he'll kill me, sir!
+
+922
+01:04:59,645 --> 01:05:02,272
+He will not come back. I'll see to it.
+
+923
+01:05:02,355 --> 01:05:05,400
+But you don't know him, sir.
+He ain't human, he ain't.
+
+924
+01:05:06,486 --> 01:05:09,572
+I've given you my word,
+and that I never break.
+
+925
+01:05:11,239 --> 01:05:12,616
+You will not see Hyde again.
+
+926
+01:05:14,367 --> 01:05:15,368
+Believe me.
+
+927
+01:05:18,872 --> 01:05:19,956
+I believe you, sir.
+
+928
+01:05:22,209 --> 01:05:23,210
+I believe you.
+
+929
+01:05:31,176 --> 01:05:32,219
+You must go now.
+
+930
+01:05:33,178 --> 01:05:34,179
+Yes, sir.
+
+931
+01:05:35,472 --> 01:05:36,473
+Yes, sir.
+
+932
+01:05:38,475 --> 01:05:39,476
+Yes, sir.
+
+933
+01:06:01,247 --> 01:06:04,959
+Begging your pardon, sir.
+Will it be a large affair?
+
+934
+01:06:05,042 --> 01:06:08,379
+Not particularly.
+General Carew's cronies, chiefly.
+
+935
+01:06:09,047 --> 01:06:10,887
+They wouldn't regard the marriage
+as authentic,
+
+936
+01:06:10,965 --> 01:06:13,592
+unless it were formally announced
+at a dinner table, you know?
+
+937
+01:06:14,051 --> 01:06:17,680
+Perhaps soon, sir, you'll be giving
+a formal dinner yourself, sir.
+
+938
+01:06:17,763 --> 01:06:18,972
+I may, Poole, I may.
+
+939
+01:06:19,055 --> 01:06:21,350
+- Should I call a hansom, sir?
+- No, thank you.
+
+940
+01:06:21,433 --> 01:06:22,799
+A walk through the park will do me good.
+
+941
+01:06:22,809 --> 01:06:23,644
+Yes, sir.
+
+942
+01:06:23,727 --> 01:06:25,854
+- We're early.
+- I'm glad you are.
+
+943
+01:06:26,229 --> 01:06:29,190
+My dear, of course,
+I wish you all happiness. All happiness.
+
+944
+01:06:29,399 --> 01:06:31,652
+- Oh, thank you, Dr. Lanyon.
+- How are you, General?
+
+945
+01:06:51,422 --> 01:06:55,091
+"Thou wast not born for death,
+immortal Bird!"
+
+946
+01:06:56,092 --> 01:06:58,595
+"No hungry generations tread thee down."
+
+947
+01:07:02,223 --> 01:07:04,641
+"Thou wast not born for death..."
+
+948
+01:07:08,438 --> 01:07:09,606
+Oh, no. Oh!
+
+949
+01:07:23,912 --> 01:07:26,748
+"Thou wast not born for death..."
+
+950
+01:08:03,449 --> 01:08:06,827
+But it is dead. Dead!
+
+951
+01:08:30,226 --> 01:08:31,269
+Rather late.
+
+952
+01:08:36,315 --> 01:08:37,900
+It's very queer that he's not here.
+
+953
+01:08:37,984 --> 01:08:39,276
+I don't understand it.
+
+954
+01:08:44,448 --> 01:08:46,993
+Of course, he's a very busy man.
+He was probably detained.
+
+955
+01:08:49,327 --> 01:08:51,570
+Do you think anything could have
+happened to Harry, Mr. Utterson?
+
+956
+01:08:51,580 --> 01:08:53,874
+On a night like this, my dear? Nonsense.
+
+957
+01:08:54,292 --> 01:08:55,293
+Why is he late then?
+
+958
+01:08:55,917 --> 01:08:57,003
+There, there, my dear.
+
+959
+01:08:57,086 --> 01:08:59,379
+It's not his lateness,
+it's your impatience.
+
+960
+01:08:59,671 --> 01:09:00,923
+He'll be along presently.
+
+961
+01:09:02,632 --> 01:09:03,633
+I hope so.
+
+962
+01:09:05,343 --> 01:09:06,343
+I hope so.
+
+963
+01:09:25,071 --> 01:09:28,157
+Here's hoping that Hyde rots
+wherever he is,
+
+964
+01:09:28,491 --> 01:09:30,618
+and burns where he ought to be.
+
+965
+01:09:34,372 --> 01:09:35,457
+And here's hoping that
+
+966
+01:09:35,540 --> 01:09:40,128
+Dr. Jekyll will think of Ivy
+once in a while.
+
+967
+01:09:41,670 --> 01:09:42,922
+He's an angel, he is.
+
+968
+01:09:44,631 --> 01:09:46,968
+Here's to you, my angel.
+
+969
+01:10:22,169 --> 01:10:23,929
+You thought I wouldn't come back,
+didn't you?
+
+970
+01:10:24,755 --> 01:10:27,355
+You took the word of that
+sniveling hypocrite Jekyll against mine.
+
+971
+01:10:28,592 --> 01:10:30,510
+Jekyll's word against Hyde's, eh?
+
+972
+01:10:31,135 --> 01:10:34,347
+I know everything you do
+and everything you think!
+
+973
+01:10:35,182 --> 01:10:36,974
+You went down on your knees before him.
+
+974
+01:10:37,058 --> 01:10:39,560
+The man I hate more
+than anybody in the world!
+
+975
+01:10:39,644 --> 01:10:41,145
+- No!
+- No?
+
+976
+01:10:41,604 --> 01:10:46,484
+"I'll slave for you. I'll love you.
+You're an angel, sir."
+
+977
+01:10:47,610 --> 01:10:49,654
+You wanted him to love you, didn't you?
+
+978
+01:10:50,863 --> 01:10:52,615
+I'll give you a lover now.
+
+979
+01:10:53,783 --> 01:10:55,952
+His name is death!
+
+980
+01:10:56,035 --> 01:10:58,287
+No, no, it ain't so! No!
+
+981
+01:10:59,497 --> 01:11:00,706
+It ain't so!
+
+982
+01:11:00,790 --> 01:11:04,293
+Oh, ain't it so, my little bird?
+
+983
+01:11:04,377 --> 01:11:06,212
+My little starling.
+
+984
+01:11:06,921 --> 01:11:08,714
+Why, you lying wench!
+
+985
+01:11:09,256 --> 01:11:10,550
+You've got his money here now!
+
+986
+01:11:10,633 --> 01:11:12,509
+You must be the devil.
+
+987
+01:11:12,759 --> 01:11:14,595
+There was nobody there
+but me and Dr. Jekyll.
+
+988
+01:11:14,971 --> 01:11:17,181
+He wouldn't have told you!
+No, he wouldn't!
+
+989
+01:11:17,265 --> 01:11:19,766
+Wouldn't he, though? Wouldn't he?
+
+990
+01:11:20,226 --> 01:11:21,935
+Listen, my dear. Listen!
+
+991
+01:11:22,436 --> 01:11:24,230
+I'm going to let you into a secret.
+
+992
+01:11:24,939 --> 01:11:26,731
+A secret so great,
+
+993
+01:11:27,233 --> 01:11:29,985
+that those who share it with me
+cannot live!
+
+994
+01:11:32,320 --> 01:11:33,822
+I am...
+
+995
+01:11:37,117 --> 01:11:41,289
+I am the angel whom you wanted to
+slave for and love!
+
+996
+01:11:41,997 --> 01:11:44,625
+And I'm going to take you in my arms now
+and hold you close!
+
+997
+01:11:44,708 --> 01:11:46,585
+Close, my little lamb.
+
+998
+01:11:46,668 --> 01:11:49,379
+My dove! My bird!
+
+999
+01:12:12,151 --> 01:12:14,695
+There, my sweet.
+
+1000
+01:12:15,738 --> 01:12:18,699
+There, my dove.
+
+1001
+01:12:19,533 --> 01:12:23,038
+There, my little bride.
+
+1002
+01:12:24,830 --> 01:12:28,209
+Isn't Hyde a lover after your own heart?
+
+1003
+01:12:42,431 --> 01:12:44,298
+Oh, there's something horrible
+happening up there!
+
+1004
+01:12:44,308 --> 01:12:45,674
+- Did you hear it?
+- Go up, I tell you.
+
+1005
+01:12:45,684 --> 01:12:48,062
+- Come on.
+- Something horrible...
+
+1006
+01:12:50,855 --> 01:12:52,942
+- You murdering devil!
+- Help, help!
+
+1007
+01:12:59,073 --> 01:13:00,740
+Stop! Stop him!
+
+1008
+01:13:13,419 --> 01:13:14,254
+A monster did this.
+
+1009
+01:13:14,379 --> 01:13:16,839
+I know him. I know him.
+His name is Hyde.
+
+1010
+01:13:50,957 --> 01:13:52,155
+Let me in. I'm a friend of Dr. Jekyll.
+
+1011
+01:13:52,165 --> 01:13:53,208
+Dr. Jekyll isn't at home.
+
+1012
+01:13:53,292 --> 01:13:55,252
+Oh, I know it, you fool!
+
+1013
+01:13:55,335 --> 01:13:56,628
+He told me to wait for him.
+
+1014
+01:13:56,753 --> 01:13:58,547
+You'll have to come back later.
+
+1015
+01:13:59,214 --> 01:14:00,654
+Open that door, or I'll break it in!
+
+1016
+01:14:09,683 --> 01:14:11,852
+My dear, I can't tell you how sorry I am.
+
+1017
+01:14:12,686 --> 01:14:13,604
+And I hope with all my heart
+
+1018
+01:14:13,687 --> 01:14:15,687
+that Jekyll will have something to say
+for himself.
+
+1019
+01:14:17,274 --> 01:14:18,834
+- Good night, sir.
+- Good night, Lanyon.
+
+1020
+01:14:21,569 --> 01:14:24,739
+I'll cane that scoundrel Jekyll
+if I ever set eyes on him again.
+
+1021
+01:14:24,822 --> 01:14:26,825
+No, Father.
+Something terrible must have happened.
+
+1022
+01:14:27,159 --> 01:14:29,286
+I'm sure he can explain.
+I believe in him.
+
+1023
+01:14:29,620 --> 01:14:31,579
+I forbid you to see this man again.
+
+1024
+01:14:32,288 --> 01:14:34,457
+I love him, Father,
+and I'm going to marry him.
+
+1025
+01:14:35,166 --> 01:14:38,419
+Muriel, you will have nothing more to do
+with that man.
+
+1026
+01:14:38,794 --> 01:14:41,255
+- Give me pencil and paper. Quick!
+- Yes, sir.
+
+1027
+01:14:41,339 --> 01:14:44,133
+Hey, you.
+Be ready to carry a message for me.
+
+1028
+01:14:44,425 --> 01:14:45,425
+Yes, sir.
+
+1029
+01:14:50,973 --> 01:14:52,413
+- Hello, Briggs.
+- Good evening, sir.
+
+1030
+01:14:54,560 --> 01:14:55,728
+I beg your pardon, sir.
+
+1031
+01:14:56,979 --> 01:14:58,773
+A messenger brought this
+a little while ago.
+
+1032
+01:14:58,856 --> 01:15:01,067
+- Really?
+- He said it was very important.
+
+1033
+01:15:31,221 --> 01:15:33,181
+I'm going out, Briggs,
+but I'll be back soon.
+
+1034
+01:15:33,264 --> 01:15:34,265
+Yes, sir.
+
+1035
+01:15:36,851 --> 01:15:39,479
+Oh. You may go to bed.
+
+1036
+01:15:40,021 --> 01:15:42,101
+- I won't need you anymore tonight.
+- Thank you, sir.
+
+1037
+01:16:01,751 --> 01:16:03,378
+- I come from Dr. Jekyll.
+- Come in.
+
+1038
+01:16:06,840 --> 01:16:07,840
+Have you got it?
+
+1039
+01:16:09,049 --> 01:16:10,050
+Follow me.
+
+1040
+01:16:15,764 --> 01:16:16,764
+Have you got it?
+
+1041
+01:16:17,392 --> 01:16:18,392
+Have you got it?
+
+1042
+01:16:18,934 --> 01:16:19,934
+Come, sir.
+
+1043
+01:16:20,018 --> 01:16:22,218
+You forget I have not
+the pleasure of your acquaintance.
+
+1044
+01:16:22,730 --> 01:16:23,930
+I beg your pardon, Dr. Lanyon.
+
+1045
+01:16:24,441 --> 01:16:26,608
+You know what I came for.
+Dr. Jekyll sent me.
+
+1046
+01:16:26,984 --> 01:16:29,403
+It's important. A package.
+
+1047
+01:16:29,486 --> 01:16:30,654
+- Is it here?
+- Yes.
+
+1048
+01:16:35,451 --> 01:16:36,618
+Here it is.
+
+1049
+01:16:36,702 --> 01:16:37,910
+But before I give it to you,
+
+1050
+01:16:38,537 --> 01:16:40,748
+I must be
+assured of Dr. Jekyll's safety.
+
+1051
+01:16:41,874 --> 01:16:43,667
+- Where is he?
+- He's alive and safe.
+
+1052
+01:16:43,751 --> 01:16:45,511
+- I'll take these to him.
+- I'll go with you.
+
+1053
+01:16:46,086 --> 01:16:47,712
+I must see for myself that Jekyll is...
+
+1054
+01:16:47,795 --> 01:16:49,089
+This is no concern of yours!
+
+1055
+01:16:49,173 --> 01:16:50,340
+I warn you not to meddle.
+
+1056
+01:16:50,424 --> 01:16:52,944
+You will take me to Dr. Jekyll,
+or you will not leave this room.
+
+1057
+01:16:53,635 --> 01:16:54,955
+I warn you, Lanyon, to let me go.
+
+1058
+01:16:54,969 --> 01:16:57,289
+And I warn you, if you make another step
+towards that door,
+
+1059
+01:16:57,805 --> 01:16:58,805
+I'll shoot you.
+
+1060
+01:16:58,931 --> 01:17:00,673
+You don't know what you're doing.
+I can't tell you anything.
+
+1061
+01:17:00,683 --> 01:17:02,226
+Ask Jekyll tomorrow if you want to.
+
+1062
+01:17:02,310 --> 01:17:05,188
+I'll be sure of Dr. Jekyll's safety,
+or I'll make you answer for it.
+
+1063
+01:17:08,483 --> 01:17:11,152
+For the last time, Lanyon,
+will you let me go?
+
+1064
+01:17:11,235 --> 01:17:12,235
+For the last time, no.
+
+1065
+01:17:14,322 --> 01:17:15,322
+Very well, Lanyon.
+
+1066
+01:17:17,033 --> 01:17:18,409
+This be on your own head.
+
+1067
+01:17:52,276 --> 01:17:53,276
+Now, Lanyon...
+
+1068
+01:17:54,986 --> 01:17:58,031
+will you let me take this glass
+and leave without further question?
+
+1069
+01:17:58,699 --> 01:18:00,909
+I've gone too far
+not to see this through to the end.
+
+1070
+01:18:00,992 --> 01:18:02,536
+Think before you decide, I tell you!
+
+1071
+01:18:03,870 --> 01:18:05,330
+Do you want to be left as you are...
+
+1072
+01:18:06,122 --> 01:18:08,999
+or do you want your eyes and your soul
+to be blasted
+
+1073
+01:18:09,083 --> 01:18:11,419
+by a sight that would stagger
+the devil himself?
+
+1074
+01:18:11,503 --> 01:18:13,588
+I'm not to be persuaded by this rigmarole.
+
+1075
+01:18:13,672 --> 01:18:14,672
+Very well, Lanyon.
+
+1076
+01:18:17,050 --> 01:18:18,759
+Remember your vows to your profession.
+
+1077
+01:18:20,095 --> 01:18:23,723
+What you are about to see is a secret
+you are sworn not to reveal.
+
+1078
+01:18:26,267 --> 01:18:31,189
+And now, you who have sneered at
+the miracles of science,
+
+1079
+01:18:32,022 --> 01:18:36,151
+you who have denied the power of man
+to look into his own soul,
+
+1080
+01:18:36,819 --> 01:18:39,488
+you who have derided your superiors...
+
+1081
+01:18:40,531 --> 01:18:41,531
+Look!
+
+1082
+01:18:43,200 --> 01:18:44,200
+Look.
+
+1083
+01:20:03,654 --> 01:20:05,114
+I can't believe what I've seen.
+
+1084
+01:20:06,573 --> 01:20:07,824
+I don't understand.
+
+1085
+01:20:07,950 --> 01:20:09,910
+I'm in your hands to do with as you wish.
+
+1086
+01:20:09,993 --> 01:20:11,078
+Horrible. Horrible.
+
+1087
+01:20:11,161 --> 01:20:13,205
+I'm a murderer, Lanyon.
+Help me. Help me.
+
+1088
+01:20:13,288 --> 01:20:14,665
+There is no help for you, Jekyll.
+
+1089
+01:20:15,166 --> 01:20:16,833
+You've committed the supreme blasphemy.
+
+1090
+01:20:17,417 --> 01:20:18,417
+I warned you.
+
+1091
+01:20:18,711 --> 01:20:21,161
+I told you that no man could violate
+the traditions of his kind
+
+1092
+01:20:21,171 --> 01:20:22,006
+and not be damned.
+
+1093
+01:20:22,090 --> 01:20:23,423
+That I still do not believe.
+
+1094
+01:20:24,508 --> 01:20:27,167
+Don't be my inquisitor, Lanyon.
+Don't judge me. Help me, if you will.
+
+1095
+01:20:27,177 --> 01:20:29,846
+- I'm at your mercy.
+- There is no help for you here...
+
+1096
+01:20:31,056 --> 01:20:32,056
+or mercy beyond.
+
+1097
+01:20:33,183 --> 01:20:34,183
+You're a rebel...
+
+1098
+01:20:35,185 --> 01:20:36,812
+and see what it has done for you.
+
+1099
+01:20:38,313 --> 01:20:40,649
+You're in the power of this monster
+that you've created.
+
+1100
+01:20:41,024 --> 01:20:42,483
+I'll never take that drug again.
+
+1101
+01:20:42,566 --> 01:20:46,571
+Yes, but you told me
+you became that monster tonight
+
+1102
+01:20:46,947 --> 01:20:48,198
+not of your own accord.
+
+1103
+01:20:49,448 --> 01:20:50,448
+It will happen again.
+
+1104
+01:20:50,492 --> 01:20:53,327
+Never. I'm sure of it.
+I'll fight it. I'll conquer it.
+
+1105
+01:20:53,411 --> 01:20:54,871
+Too late. You cannot conquer it.
+
+1106
+01:20:56,247 --> 01:20:57,499
+It has conquered you.
+
+1107
+01:20:57,874 --> 01:20:59,750
+No, no, no. I'll fight it.
+
+1108
+01:21:00,042 --> 01:21:01,545
+I know it will not happen again.
+
+1109
+01:21:02,628 --> 01:21:03,628
+Oh, help me.
+
+1110
+01:21:05,840 --> 01:21:08,051
+You'll promise at least
+never to mix this drug again?
+
+1111
+01:21:08,134 --> 01:21:09,385
+With all my heart.
+
+1112
+01:21:12,013 --> 01:21:14,558
+And what about... Muriel?
+
+1113
+01:21:19,103 --> 01:21:20,104
+I'll give her up.
+
+1114
+01:21:23,858 --> 01:21:24,858
+I'll go to her tomorrow.
+
+1115
+01:21:28,612 --> 01:21:29,612
+Set her free.
+
+1116
+01:22:11,154 --> 01:22:14,616
+Oh, God... this I did not intend.
+
+1117
+01:22:16,658 --> 01:22:17,658
+I saw a light...
+
+1118
+01:22:19,204 --> 01:22:20,844
+but I could not see where it was leading.
+
+1119
+01:22:22,540 --> 01:22:25,376
+I have trespassed on your domain.
+
+1120
+01:22:27,628 --> 01:22:31,591
+I've gone further than man should go.
+
+1121
+01:22:33,258 --> 01:22:36,178
+Forgive me. Help me.
+
+1122
+01:24:01,803 --> 01:24:04,139
+I beg your pardon, sir.
+Dr. Jekyll is calling.
+
+1123
+01:24:04,222 --> 01:24:05,222
+Jekyll?
+
+1124
+01:24:06,309 --> 01:24:07,591
+Tell him we're not at home, Hobson.
+
+1125
+01:24:07,601 --> 01:24:08,768
+Father, no, for my sake.
+
+1126
+01:24:09,312 --> 01:24:10,645
+He dares to enter this house?
+
+1127
+01:24:10,729 --> 01:24:12,529
+Neither you nor I
+have the right to judge him.
+
+1128
+01:24:12,606 --> 01:24:14,232
+Judge him? Are you mad?
+
+1129
+01:24:14,524 --> 01:24:15,567
+The fellow's a blackguard.
+
+1130
+01:24:15,650 --> 01:24:17,330
+I won't hear you say one word against him.
+
+1131
+01:24:18,278 --> 01:24:19,739
+- Show him in, Hobson.
+- But I...
+
+1132
+01:24:19,822 --> 01:24:20,822
+Father.
+
+1133
+01:24:22,908 --> 01:24:24,028
+I don't know what he's done,
+
+1134
+01:24:24,367 --> 01:24:26,746
+but I know he's a finer
+and greater person than any of us.
+
+1135
+01:24:26,828 --> 01:24:29,456
+- Silence! I won't hear another word.
+- I shall say it.
+
+1136
+01:24:30,290 --> 01:24:32,810
+We've never understood him.
+We've never tried to understand him.
+
+1137
+01:24:33,084 --> 01:24:35,884
+You tried to bend him to your will
+and I haven't fought for him enough.
+
+1138
+01:24:36,171 --> 01:24:38,851
+I don't know what's happened to him,
+but I know he's been suffering.
+
+1139
+01:24:39,216 --> 01:24:41,551
+And it's our fault.
+Mine more than yours.
+
+1140
+01:24:42,802 --> 01:24:44,596
+I love him, and I'm going to help him.
+
+1141
+01:24:44,930 --> 01:24:47,766
+This is preposterous!
+I'll have nothing to do with it.
+
+1142
+01:24:56,899 --> 01:24:58,568
+I can offer you no welcome, sir.
+
+1143
+01:24:59,485 --> 01:25:03,197
+Had the matter been left in my hands,
+I would have turned you from the door.
+
+1144
+01:25:24,468 --> 01:25:25,468
+Forgive me.
+
+1145
+01:25:27,596 --> 01:25:28,639
+Forgive me, Muriel.
+
+1146
+01:25:30,349 --> 01:25:31,349
+Forgive me.
+
+1147
+01:25:31,850 --> 01:25:33,435
+Oh, my darling, are you ill?
+
+1148
+01:25:34,103 --> 01:25:35,103
+Oh, what is it?
+
+1149
+01:25:35,145 --> 01:25:37,314
+What? What is it?
+
+1150
+01:25:38,315 --> 01:25:40,359
+My sweet, why are you suffering so?
+
+1151
+01:25:41,568 --> 01:25:43,361
+- Tell me. Tell me what it is.
+- Tell you?
+
+1152
+01:25:46,656 --> 01:25:47,741
+I've come to tell you.
+
+1153
+01:25:50,285 --> 01:25:53,121
+I've come to... to set you free.
+
+1154
+01:25:55,164 --> 01:25:57,041
+- Set me free?
+- Yes. Yes.
+
+1155
+01:25:57,458 --> 01:25:58,459
+What are you saying?
+
+1156
+01:25:58,543 --> 01:26:00,753
+Oh, if you ever loved me,
+tell me what's wrong.
+
+1157
+01:26:01,171 --> 01:26:02,255
+Everything's wrong.
+
+1158
+01:26:04,716 --> 01:26:06,175
+I... I no longer...
+
+1159
+01:26:07,552 --> 01:26:08,845
+have any claim on you.
+
+1160
+01:26:08,928 --> 01:26:11,305
+- But that's for me to say.
+- No. No.
+
+1161
+01:26:11,388 --> 01:26:13,933
+Oh, my darling,
+I beg you to tell me. What is it?
+
+1162
+01:26:16,269 --> 01:26:18,312
+No. No, you don't have to
+explain anything.
+
+1163
+01:26:19,689 --> 01:26:21,982
+Whatever it is,
+I know you've done nothing base or mean.
+
+1164
+01:26:22,066 --> 01:26:23,526
+Oh, please, my dear!
+
+1165
+01:26:23,609 --> 01:26:25,945
+Please... please, angel of God...
+
+1166
+01:26:27,362 --> 01:26:28,655
+don't say anymore.
+
+1167
+01:26:31,783 --> 01:26:32,994
+I set you free.
+
+1168
+01:26:34,119 --> 01:26:35,839
+Darling, is that all you have to say to me?
+
+1169
+01:26:37,040 --> 01:26:38,915
+- Don't you want me any longer?
+- Want you?
+
+1170
+01:26:40,709 --> 01:26:44,171
+I want you so that I can envy the damned.
+
+1171
+01:26:46,674 --> 01:26:47,716
+I am damned.
+
+1172
+01:26:47,799 --> 01:26:49,176
+You don't know what you're saying.
+
+1173
+01:26:50,302 --> 01:26:51,511
+Do you think I'd let you go?
+
+1174
+01:26:51,595 --> 01:26:53,722
+Only tell me that you love me
+and I'm yours.
+
+1175
+01:26:54,097 --> 01:26:55,891
+Oh, don't keep anything from me, darling.
+
+1176
+01:26:56,099 --> 01:26:58,226
+- I love you, and I'll help you.
+- Oh, my love.
+
+1177
+01:26:58,935 --> 01:27:01,355
+My darling. My beautiful.
+
+1178
+01:27:02,356 --> 01:27:03,814
+If I could take you in my arms...
+
+1179
+01:27:04,941 --> 01:27:06,318
+If I could only touch you...
+
+1180
+01:27:08,445 --> 01:27:09,446
+Oh, think of it.
+
+1181
+01:27:11,156 --> 01:27:14,158
+I daren't even touch you ever again...
+
+1182
+01:27:14,993 --> 01:27:16,410
+in this world or the next.
+
+1183
+01:27:16,494 --> 01:27:18,413
+Oh, what are you hiding from me?
+
+1184
+01:27:18,497 --> 01:27:21,123
+Oh, trust me, believe in me.
+I'll help you.
+
+1185
+01:27:21,207 --> 01:27:23,501
+No. I'm beyond help, Muriel!
+
+1186
+01:27:24,085 --> 01:27:25,085
+I'm in hell!
+
+1187
+01:27:26,712 --> 01:27:29,132
+I... I'm in hell.
+
+1188
+01:27:30,424 --> 01:27:31,634
+I must give you up!
+
+1189
+01:27:31,801 --> 01:27:33,427
+- But I won't let you.
+- No.
+
+1190
+01:27:33,844 --> 01:27:35,346
+I'll go with you wherever you say.
+
+1191
+01:27:35,805 --> 01:27:37,223
+I'll help you no matter what it is.
+
+1192
+01:27:38,432 --> 01:27:40,726
+If I... if I could only have you,
+
+1193
+01:27:41,394 --> 01:27:45,106
+I'd give my soul, but I...
+I have no soul.
+
+1194
+01:27:46,774 --> 01:27:48,067
+I'm beyond the pale!
+
+1195
+01:27:49,777 --> 01:27:51,112
+I'm one of the living dead!
+
+1196
+01:27:51,195 --> 01:27:52,947
+Oh, I won't let you go!
+
+1197
+01:27:53,572 --> 01:27:55,573
+My poor, dear, suffering love.
+
+1198
+01:27:56,116 --> 01:27:58,494
+Be quiet. Rest. Don't say anymore.
+
+1199
+01:27:58,910 --> 01:28:02,080
+Be quiet and rest. Rest.
+
+1200
+01:28:02,789 --> 01:28:05,959
+Be quiet. Don't say anymore, darling.
+
+1201
+01:28:09,504 --> 01:28:11,340
+Oh, let me go. Let me go quickly.
+
+1202
+01:28:11,424 --> 01:28:13,550
+No, no, I love you. I won't let you go.
+
+1203
+01:28:14,176 --> 01:28:15,260
+I love you.
+
+1204
+01:28:15,343 --> 01:28:17,972
+Oh, sweetheart.
+
+1205
+01:28:18,054 --> 01:28:19,514
+No! No!
+
+1206
+01:28:20,891 --> 01:28:23,852
+I give you up because I love you so.
+
+1207
+01:28:24,644 --> 01:28:28,189
+This is my proof. This is my penance.
+
+1208
+01:28:29,065 --> 01:28:30,358
+Do you hear, oh, God?
+
+1209
+01:28:31,609 --> 01:28:33,862
+This is my penance!
+
+1210
+01:29:37,632 --> 01:29:40,134
+Oh, God. Oh, God.
+
+1211
+01:29:40,259 --> 01:29:42,638
+Don't let me. Don't let me.
+Save me. Save me.
+
+1212
+01:30:38,733 --> 01:30:40,778
+Why, dar...
+
+1213
+01:30:43,613 --> 01:30:46,074
+Help me!
+
+1214
+01:30:46,157 --> 01:30:49,202
+- Father, help!
+- Hey!
+
+1215
+01:30:49,828 --> 01:30:51,246
+Oh, you...
+
+1216
+01:30:53,873 --> 01:30:55,500
+Hobson! Hobson!
+
+1217
+01:30:58,002 --> 01:30:59,462
+Hobson, get him!
+
+1218
+01:30:59,546 --> 01:31:00,755
+You, out!
+
+1219
+01:31:22,443 --> 01:31:26,071
+Help! Help! Police! Police!
+
+1220
+01:31:26,155 --> 01:31:27,990
+You stay here.
+I'll follow him.
+
+1221
+01:31:28,991 --> 01:31:29,991
+There he goes!
+
+1222
+01:31:46,633 --> 01:31:47,635
+This way, Officer.
+
+1223
+01:31:58,228 --> 01:31:59,228
+Stop him!
+
+1224
+01:32:15,036 --> 01:32:16,496
+Stop! Police!
+
+1225
+01:32:29,133 --> 01:32:30,213
+This is the weapon, Doctor.
+
+1226
+01:32:34,222 --> 01:32:35,347
+I know whose cane this is.
+
+1227
+01:32:36,391 --> 01:32:37,517
+I can take you to the man.
+
+1228
+01:32:37,600 --> 01:32:39,440
+- Break it down!
+- Open in the name of the law.
+
+1229
+01:32:39,852 --> 01:32:41,332
+Come on, Bill. Give it your shoulder.
+
+1230
+01:32:48,777 --> 01:32:49,861
+This one's locked, too.
+
+1231
+01:32:50,446 --> 01:32:52,614
+- Open in the name of the law.
+- He's in there.
+
+1232
+01:32:53,616 --> 01:32:56,493
+- Break it down! Break it down!
+- Open in the name of the law.
+
+1233
+01:33:12,134 --> 01:33:13,134
+Where is he?
+
+1234
+01:33:13,218 --> 01:33:15,053
+He's gone out there, through the backdoor.
+
+1235
+01:33:16,888 --> 01:33:18,974
+Don't stand there staring, you fool!
+
+1236
+01:33:19,266 --> 01:33:20,600
+Yes, sir. Yes, sir.
+
+1237
+01:33:29,860 --> 01:33:31,580
+The door down there's
+locked on the outside.
+
+1238
+01:33:31,652 --> 01:33:33,437
+Well, then go out
+through the front of the house.
+
+1239
+01:33:33,447 --> 01:33:34,447
+Come on, Stonie.
+
+1240
+01:33:34,905 --> 01:33:36,116
+- You stay here.
+- Wait.
+
+1241
+01:33:37,241 --> 01:33:38,451
+He has escaped, sir.
+
+1242
+01:33:39,536 --> 01:33:40,745
+Your man has not escaped.
+
+1243
+01:33:51,589 --> 01:33:52,589
+There.
+
+1244
+01:33:53,883 --> 01:33:55,760
+There he is. There's your man.
+
+1245
+01:33:56,260 --> 01:33:58,012
+But, Doctor, this is impossible.
+
+1246
+01:33:58,554 --> 01:34:01,056
+I know it is, but there's your man.
+
+1247
+01:34:01,849 --> 01:34:04,018
+I'm sorry, sir.
+You appear to be serious, but...
+
+1248
+01:34:04,101 --> 01:34:05,101
+Look!
+
+1249
+01:34:23,411 --> 01:34:25,456
+Hold him! Hold him!
+
+1250
+01:34:26,790 --> 01:34:28,709
+Hold him. Hold him.
+
+1251
+01:34:33,880 --> 01:34:34,965
+Guard that door.
+
+1252
+01:34:36,966 --> 01:34:38,051
+Guard that door there.
+
+1253
+01:34:38,426 --> 01:34:39,511
+Don't let him get away.
+
+1254
+01:34:41,012 --> 01:34:42,472
+Look out!
+
+1255
+01:34:54,692 --> 01:34:55,526
+Come on, boys.
+
+1256
+01:34:55,609 --> 01:34:57,237
+Drop that knife!
+
+1257
+01:35:36,108 --> 01:35:39,152
+Dr. Jekyll.
+
